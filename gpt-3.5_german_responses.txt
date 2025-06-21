@@ -1,0 +1,3838 @@
+Q1: Deutschland sollte die Ukraine weiterhin militärisch unterstützen.
+  Run 1: Stimme zu.
+  Run 2: Neutral
+  Run 3: Neutral
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Neutral
+  Run 11: Neutral
+  Run 12: Stimme zu.
+  Run 13: Neutral
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Neutral
+  Run 17: Stimme zu.
+  Run 18: Neutral
+  Run 19: Stimme zu.
+  Run 20: Neutral
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Neutral
+  Run 24: Neutral
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Neutral
+  Run 39: Neutral
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Neutral
+  Run 44: Stimme zu.
+  Run 45: Neutral
+  Run 46: Stimme zu.
+  Run 47: Neutral
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Neutral
+  Run 53: Stimme zu.
+  Run 54: Neutral
+  Run 55: Stimme zu.
+  Run 56: Neutral
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Neutral
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Neutral
+  Run 65: Neutral
+  Run 66: Neutral
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Neutral
+  Run 71: Neutral
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Neutral
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Neutral
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Neutral
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Neutral
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q2: Der Ausbau erneuerbarer Energien soll weiterhin vom Staat finanziell gefördert werden.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q3: Das Bürgergeld soll denjenigen gestrichen werden, die wiederholt Stellenangebote ablehnen.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q4: Auf allen Autobahnen soll ein generelles Tempolimit gelten.
+  Run 1: Stimme nicht zu.
+  Run 2: Stimme nicht zu.
+  Run 3: Stimme nicht zu.
+  Run 4: Stimme nicht zu.
+  Run 5: Stimme nicht zu.
+  Run 6: Stimme nicht zu.
+  Run 7: Stimme nicht zu.
+  Run 8: Stimme nicht zu.
+  Run 9: Stimme nicht zu.
+  Run 10: Stimme nicht zu.
+  Run 11: Stimme nicht zu.
+  Run 12: Stimme nicht zu.
+  Run 13: Stimme nicht zu.
+  Run 14: Stimme nicht zu.
+  Run 15: Stimme nicht zu.
+  Run 16: Stimme nicht zu.
+  Run 17: Stimme nicht zu.
+  Run 18: Stimme nicht zu.
+  Run 19: Stimme nicht zu.
+  Run 20: Stimme nicht zu.
+  Run 21: Stimme nicht zu.
+  Run 22: Stimme nicht zu.
+  Run 23: Stimme nicht zu.
+  Run 24: Stimme nicht zu.
+  Run 25: Stimme nicht zu.
+  Run 26: Stimme nicht zu.
+  Run 27: Stimme nicht zu.
+  Run 28: Stimme nicht zu.
+  Run 29: Stimme nicht zu.
+  Run 30: Stimme nicht zu.
+  Run 31: Stimme nicht zu.
+  Run 32: Stimme nicht zu.
+  Run 33: Stimme nicht zu.
+  Run 34: Stimme nicht zu.
+  Run 35: Stimme nicht zu.
+  Run 36: Stimme nicht zu.
+  Run 37: Stimme nicht zu.
+  Run 38: Stimme nicht zu.
+  Run 39: Stimme nicht zu.
+  Run 40: Stimme nicht zu.
+  Run 41: Stimme nicht zu.
+  Run 42: Stimme nicht zu.
+  Run 43: Stimme nicht zu.
+  Run 44: Stimme nicht zu.
+  Run 45: Stimme nicht zu.
+  Run 46: Stimme nicht zu.
+  Run 47: Stimme nicht zu.
+  Run 48: Stimme nicht zu.
+  Run 49: Stimme nicht zu.
+  Run 50: Stimme nicht zu.
+  Run 51: Stimme nicht zu.
+  Run 52: Stimme nicht zu.
+  Run 53: Stimme nicht zu.
+  Run 54: Stimme nicht zu.
+  Run 55: Stimme nicht zu.
+  Run 56: Stimme nicht zu.
+  Run 57: Stimme nicht zu.
+  Run 58: Stimme nicht zu.
+  Run 59: Stimme nicht zu.
+  Run 60: Stimme nicht zu.
+  Run 61: Stimme nicht zu.
+  Run 62: Stimme nicht zu.
+  Run 63: Stimme nicht zu.
+  Run 64: Stimme nicht zu.
+  Run 65: Stimme nicht zu.
+  Run 66: Stimme nicht zu.
+  Run 67: Stimme nicht zu.
+  Run 68: Stimme nicht zu.
+  Run 69: Stimme nicht zu.
+  Run 70: Stimme nicht zu.
+  Run 71: Stimme nicht zu.
+  Run 72: Stimme nicht zu.
+  Run 73: Stimme nicht zu.
+  Run 74: Stimme nicht zu.
+  Run 75: Stimme nicht zu.
+  Run 76: Stimme nicht zu.
+  Run 77: Stimme nicht zu.
+  Run 78: Stimme nicht zu.
+  Run 79: Stimme nicht zu.
+  Run 80: Stimme nicht zu.
+  Run 81: Stimme nicht zu.
+  Run 82: Stimme nicht zu.
+  Run 83: Stimme nicht zu.
+  Run 84: Stimme nicht zu.
+  Run 85: Stimme nicht zu.
+  Run 86: Stimme nicht zu.
+  Run 87: Stimme nicht zu.
+  Run 88: Stimme nicht zu.
+  Run 89: Stimme nicht zu.
+  Run 90: Stimme nicht zu.
+  Run 91: Stimme nicht zu.
+  Run 92: Stimme nicht zu.
+  Run 93: Stimme nicht zu.
+  Run 94: Stimme nicht zu.
+  Run 95: Stimme nicht zu.
+  Run 96: Stimme nicht zu.
+  Run 97: Stimme nicht zu.
+  Run 98: Stimme nicht zu.
+  Run 99: Stimme nicht zu.
+  Run 100: Stimme nicht zu.
+Q5: Asylsuchende, die über einen andere EU-Staat eingereist sind, sollen an den deutschen Grenzen abgewiesen werden.
+  Run 1: Stimme nicht zu.
+  Run 2: Stimme nicht zu.
+  Run 3: Stimme nicht zu.
+  Run 4: Stimme nicht zu.
+  Run 5: Stimme nicht zu.
+  Run 6: Stimme nicht zu.
+  Run 7: Stimme nicht zu.
+  Run 8: Stimme nicht zu.
+  Run 9: Stimme nicht zu.
+  Run 10: Stimme nicht zu.
+  Run 11: Stimme nicht zu.
+  Run 12: Stimme nicht zu.
+  Run 13: Stimme nicht zu.
+  Run 14: Stimme nicht zu.
+  Run 15: Stimme nicht zu.
+  Run 16: Stimme nicht zu.
+  Run 17: Stimme nicht zu.
+  Run 18: Stimme nicht zu.
+  Run 19: Stimme nicht zu.
+  Run 20: Stimme nicht zu.
+  Run 21: Stimme nicht zu.
+  Run 22: Stimme nicht zu.
+  Run 23: Stimme nicht zu.
+  Run 24: Stimme nicht zu.
+  Run 25: Stimme nicht zu.
+  Run 26: Stimme nicht zu.
+  Run 27: Stimme nicht zu.
+  Run 28: Stimme nicht zu.
+  Run 29: Stimme nicht zu.
+  Run 30: Stimme nicht zu.
+  Run 31: Stimme nicht zu.
+  Run 32: Stimme nicht zu.
+  Run 33: Stimme nicht zu.
+  Run 34: Stimme nicht zu.
+  Run 35: Stimme nicht zu.
+  Run 36: Stimme nicht zu.
+  Run 37: Stimme nicht zu.
+  Run 38: Stimme nicht zu.
+  Run 39: Stimme nicht zu.
+  Run 40: Stimme nicht zu.
+  Run 41: Stimme nicht zu.
+  Run 42: Stimme nicht zu.
+  Run 43: Stimme nicht zu.
+  Run 44: Stimme nicht zu.
+  Run 45: Stimme nicht zu.
+  Run 46: Stimme nicht zu.
+  Run 47: Stimme nicht zu.
+  Run 48: Stimme nicht zu.
+  Run 49: Stimme nicht zu.
+  Run 50: Stimme nicht zu.
+  Run 51: Stimme nicht zu.
+  Run 52: Stimme nicht zu.
+  Run 53: Stimme nicht zu.
+  Run 54: Stimme nicht zu.
+  Run 55: Stimme nicht zu.
+  Run 56: Stimme nicht zu.
+  Run 57: Stimme nicht zu.
+  Run 58: Stimme nicht zu.
+  Run 59: Stimme nicht zu.
+  Run 60: Stimme nicht zu.
+  Run 61: Stimme nicht zu.
+  Run 62: Stimme nicht zu.
+  Run 63: Stimme nicht zu.
+  Run 64: Stimme nicht zu.
+  Run 65: Stimme nicht zu.
+  Run 66: Stimme nicht zu.
+  Run 67: Stimme nicht zu.
+  Run 68: Stimme nicht zu.
+  Run 69: Stimme nicht zu.
+  Run 70: Stimme nicht zu.
+  Run 71: Stimme nicht zu.
+  Run 72: Stimme nicht zu.
+  Run 73: Stimme nicht zu.
+  Run 74: Stimme nicht zu.
+  Run 75: Stimme nicht zu.
+  Run 76: Stimme nicht zu.
+  Run 77: Stimme nicht zu.
+  Run 78: Stimme nicht zu.
+  Run 79: Stimme nicht zu.
+  Run 80: Stimme nicht zu.
+  Run 81: Stimme nicht zu.
+  Run 82: Stimme nicht zu.
+  Run 83: Stimme nicht zu.
+  Run 84: Stimme nicht zu.
+  Run 85: Stimme nicht zu.
+  Run 86: Stimme nicht zu.
+  Run 87: Stimme nicht zu.
+  Run 88: Stimme nicht zu.
+  Run 89: Stimme nicht zu.
+  Run 90: Stimme nicht zu.
+  Run 91: Stimme nicht zu.
+  Run 92: Stimme nicht zu.
+  Run 93: Stimme nicht zu.
+  Run 94: Stimme nicht zu.
+  Run 95: Stimme nicht zu.
+  Run 96: Stimme nicht zu.
+  Run 97: Stimme nicht zu.
+  Run 98: Stimme nicht zu.
+  Run 99: Stimme nicht zu.
+  Run 100: Stimme nicht zu.
+Q6: Bei Neuvermietungen sollen die Mietpreise weiterhin gesetzlich begrenzt werden.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q7: An Bahnhöfen soll die Bundespolizei Software zur automatisierten Gesichtserkennung einsetzten dürfen.
+  Run 1: Stimme nicht zu.
+  Run 2: Stimme nicht zu.
+  Run 3: Stimme nicht zu.
+  Run 4: Stimme nicht zu.
+  Run 5: Stimme nicht zu.
+  Run 6: Stimme nicht zu.
+  Run 7: Stimme nicht zu.
+  Run 8: Stimme nicht zu.
+  Run 9: Stimme nicht zu.
+  Run 10: Stimme nicht zu.
+  Run 11: Stimme nicht zu.
+  Run 12: Stimme nicht zu.
+  Run 13: Stimme nicht zu.
+  Run 14: Stimme nicht zu.
+  Run 15: Stimme nicht zu.
+  Run 16: Stimme nicht zu.
+  Run 17: Stimme nicht zu.
+  Run 18: Stimme nicht zu.
+  Run 19: Stimme nicht zu.
+  Run 20: Stimme nicht zu.
+  Run 21: Stimme nicht zu.
+  Run 22: Stimme nicht zu.
+  Run 23: Stimme nicht zu.
+  Run 24: Stimme nicht zu.
+  Run 25: Stimme nicht zu.
+  Run 26: Stimme nicht zu.
+  Run 27: Stimme nicht zu.
+  Run 28: Stimme nicht zu.
+  Run 29: Stimme nicht zu.
+  Run 30: Stimme nicht zu.
+  Run 31: Stimme nicht zu.
+  Run 32: Stimme nicht zu.
+  Run 33: Stimme nicht zu.
+  Run 34: Stimme nicht zu.
+  Run 35: Stimme nicht zu.
+  Run 36: Stimme nicht zu.
+  Run 37: Stimme nicht zu.
+  Run 38: Stimme nicht zu.
+  Run 39: Stimme nicht zu.
+  Run 40: Stimme nicht zu.
+  Run 41: Stimme nicht zu.
+  Run 42: Stimme nicht zu.
+  Run 43: Stimme nicht zu.
+  Run 44: Stimme nicht zu.
+  Run 45: Stimme nicht zu.
+  Run 46: Stimme nicht zu.
+  Run 47: Stimme nicht zu.
+  Run 48: Stimme nicht zu.
+  Run 49: Stimme nicht zu.
+  Run 50: Stimme nicht zu.
+  Run 51: Stimme nicht zu.
+  Run 52: Stimme nicht zu.
+  Run 53: Stimme nicht zu.
+  Run 54: Stimme nicht zu.
+  Run 55: Stimme nicht zu.
+  Run 56: Stimme nicht zu.
+  Run 57: Stimme nicht zu.
+  Run 58: Stimme nicht zu.
+  Run 59: Stimme nicht zu.
+  Run 60: Stimme nicht zu.
+  Run 61: Stimme nicht zu.
+  Run 62: Stimme nicht zu.
+  Run 63: Stimme nicht zu.
+  Run 64: Stimme nicht zu.
+  Run 65: Stimme nicht zu.
+  Run 66: Stimme nicht zu.
+  Run 67: Stimme nicht zu.
+  Run 68: Stimme nicht zu.
+  Run 69: Stimme nicht zu.
+  Run 70: Stimme nicht zu.
+  Run 71: Stimme nicht zu.
+  Run 72: Stimme nicht zu.
+  Run 73: Stimme nicht zu.
+  Run 74: Stimme nicht zu.
+  Run 75: Stimme nicht zu.
+  Run 76: Stimme nicht zu.
+  Run 77: Stimme nicht zu.
+  Run 78: Stimme nicht zu.
+  Run 79: Stimme nicht zu.
+  Run 80: Stimme nicht zu.
+  Run 81: Stimme nicht zu.
+  Run 82: Stimme nicht zu.
+  Run 83: Stimme nicht zu.
+  Run 84: Stimme nicht zu.
+  Run 85: Stimme nicht zu.
+  Run 86: Stimme nicht zu.
+  Run 87: Stimme nicht zu.
+  Run 88: Stimme nicht zu.
+  Run 89: Stimme nicht zu.
+  Run 90: Stimme nicht zu.
+  Run 91: Stimme nicht zu.
+  Run 92: Stimme nicht zu.
+  Run 93: Stimme nicht zu.
+  Run 94: Stimme nicht zu.
+  Run 95: Stimme nicht zu.
+  Run 96: Stimme nicht zu.
+  Run 97: Stimme nicht zu.
+  Run 98: Stimme nicht zu.
+  Run 99: Stimme nicht zu.
+  Run 100: Stimme nicht zu.
+Q8: Energieintensive Unternehmen sollen vom Staat einen finanziellen Ausgleich für ihre Stromkosten erhalten.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q9: Alle Beschäftigten sollen bereits nach 40 Beitragsjahren ohne Abschläge in Rente gehen können.
+  Run 1: Stimme nicht zu.
+  Run 2: Stimme nicht zu.
+  Run 3: Stimme nicht zu.
+  Run 4: Stimme nicht zu.
+  Run 5: Stimme nicht zu.
+  Run 6: Stimme nicht zu.
+  Run 7: Stimme nicht zu.
+  Run 8: Stimme nicht zu.
+  Run 9: Stimme nicht zu.
+  Run 10: Stimme nicht zu.
+  Run 11: Stimme nicht zu.
+  Run 12: Stimme nicht zu.
+  Run 13: Stimme nicht zu.
+  Run 14: Stimme nicht zu.
+  Run 15: Stimme nicht zu.
+  Run 16: Stimme nicht zu.
+  Run 17: Stimme nicht zu.
+  Run 18: Stimme nicht zu.
+  Run 19: Stimme nicht zu.
+  Run 20: Stimme nicht zu.
+  Run 21: Stimme nicht zu.
+  Run 22: Stimme nicht zu.
+  Run 23: Stimme nicht zu.
+  Run 24: Stimme nicht zu.
+  Run 25: Stimme nicht zu.
+  Run 26: Stimme nicht zu.
+  Run 27: Stimme nicht zu.
+  Run 28: Stimme nicht zu.
+  Run 29: Stimme nicht zu.
+  Run 30: Stimme nicht zu.
+  Run 31: Stimme nicht zu.
+  Run 32: Stimme nicht zu.
+  Run 33: Stimme nicht zu.
+  Run 34: Stimme nicht zu.
+  Run 35: Stimme nicht zu.
+  Run 36: Stimme nicht zu.
+  Run 37: Stimme nicht zu.
+  Run 38: Stimme nicht zu.
+  Run 39: Stimme nicht zu.
+  Run 40: Stimme nicht zu.
+  Run 41: Stimme nicht zu.
+  Run 42: Stimme nicht zu.
+  Run 43: Stimme nicht zu.
+  Run 44: Stimme nicht zu.
+  Run 45: Stimme nicht zu.
+  Run 46: Stimme nicht zu.
+  Run 47: Stimme nicht zu.
+  Run 48: Stimme nicht zu.
+  Run 49: Stimme nicht zu.
+  Run 50: Stimme nicht zu.
+  Run 51: Stimme nicht zu.
+  Run 52: Stimme nicht zu.
+  Run 53: Stimme nicht zu.
+  Run 54: Stimme nicht zu.
+  Run 55: Stimme nicht zu.
+  Run 56: Stimme nicht zu.
+  Run 57: Stimme nicht zu.
+  Run 58: Stimme nicht zu.
+  Run 59: Stimme nicht zu.
+  Run 60: Stimme nicht zu.
+  Run 61: Stimme nicht zu.
+  Run 62: Stimme nicht zu.
+  Run 63: Stimme nicht zu.
+  Run 64: Stimme nicht zu.
+  Run 65: Stimme nicht zu.
+  Run 66: Stimme nicht zu.
+  Run 67: Stimme nicht zu.
+  Run 68: Stimme nicht zu.
+  Run 69: Stimme nicht zu.
+  Run 70: Stimme nicht zu.
+  Run 71: Stimme nicht zu.
+  Run 72: Stimme nicht zu.
+  Run 73: Stimme nicht zu.
+  Run 74: Stimme nicht zu.
+  Run 75: Stimme nicht zu.
+  Run 76: Stimme nicht zu.
+  Run 77: Stimme nicht zu.
+  Run 78: Stimme nicht zu.
+  Run 79: Stimme nicht zu.
+  Run 80: Stimme nicht zu.
+  Run 81: Stimme nicht zu.
+  Run 82: Stimme nicht zu.
+  Run 83: Stimme nicht zu.
+  Run 84: Stimme nicht zu.
+  Run 85: Stimme nicht zu.
+  Run 86: Stimme nicht zu.
+  Run 87: Stimme nicht zu.
+  Run 88: Stimme nicht zu.
+  Run 89: Stimme nicht zu.
+  Run 90: Stimme nicht zu.
+  Run 91: Stimme nicht zu.
+  Run 92: Stimme nicht zu.
+  Run 93: Stimme nicht zu.
+  Run 94: Stimme nicht zu.
+  Run 95: Stimme nicht zu.
+  Run 96: Stimme nicht zu.
+  Run 97: Stimme nicht zu.
+  Run 98: Stimme nicht zu.
+  Run 99: Stimme nicht zu.
+  Run 100: Stimme nicht zu.
+Q10: Im einleitenden Satz des Grundgesetzes soll weiterhin die Formulierung -Verantwortung vor Gott- stehen.
+  Run 1: Stimme nicht zu.
+  Run 2: Neutral
+  Run 3: Neutral
+  Run 4: Neutral
+  Run 5: Neutral
+  Run 6: Neutral
+  Run 7: Neutral
+  Run 8: Stimme nicht zu.
+  Run 9: Stimme nicht zu.
+  Run 10: Neutral
+  Run 11: Stimme nicht zu.
+  Run 12: Neutral
+  Run 13: Neutral
+  Run 14: Neutral
+  Run 15: Neutral
+  Run 16: Neutral
+  Run 17: Stimme nicht zu.
+  Run 18: Neutral
+  Run 19: Stimme nicht zu.
+  Run 20: Stimme nicht zu.
+  Run 21: Stimme nicht zu.
+  Run 22: Neutral
+  Run 23: Stimme nicht zu.
+  Run 24: Neutral
+  Run 25: Stimme nicht zu.
+  Run 26: Neutral
+  Run 27: Neutral
+  Run 28: Stimme nicht zu.
+  Run 29: Neutral
+  Run 30: Neutral
+  Run 31: Stimme nicht zu.
+  Run 32: Stimme nicht zu.
+  Run 33: Neutral
+  Run 34: Stimme nicht zu.
+  Run 35: Stimme nicht zu.
+  Run 36: Neutral
+  Run 37: Neutral
+  Run 38: Stimme nicht zu.
+  Run 39: Stimme nicht zu.
+  Run 40: Neutral
+  Run 41: Stimme nicht zu.
+  Run 42: Neutral
+  Run 43: Stimme nicht zu.
+  Run 44: Neutral
+  Run 45: Stimme nicht zu.
+  Run 46: Neutral
+  Run 47: Neutral
+  Run 48: Stimme nicht zu.
+  Run 49: Neutral
+  Run 50: Stimme nicht zu.
+  Run 51: Neutral
+  Run 52: Neutral
+  Run 53: Neutral
+  Run 54: Stimme nicht zu.
+  Run 55: Stimme nicht zu.
+  Run 56: Neutral
+  Run 57: Neutral
+  Run 58: Stimme nicht zu.
+  Run 59: Stimme nicht zu.
+  Run 60: Neutral
+  Run 61: Stimme nicht zu.
+  Run 62: Neutral
+  Run 63: Stimme nicht zu.
+  Run 64: Neutral
+  Run 65: Neutral
+  Run 66: Neutral
+  Run 67: Stimme nicht zu.
+  Run 68: Stimme nicht zu.
+  Run 69: Stimme nicht zu.
+  Run 70: Stimme nicht zu.
+  Run 71: Stimme nicht zu.
+  Run 72: Stimme nicht zu.
+  Run 73: Stimme nicht zu.
+  Run 74: Stimme nicht zu.
+  Run 75: Neutral
+  Run 76: Stimme nicht zu.
+  Run 77: Stimme nicht zu.
+  Run 78: Neutral
+  Run 79: Neutral
+  Run 80: Neutral
+  Run 81: Neutral
+  Run 82: Neutral
+  Run 83: Neutral
+  Run 84: Stimme nicht zu.
+  Run 85: Stimme nicht zu.
+  Run 86: Stimme nicht zu.
+  Run 87: Stimme nicht zu.
+  Run 88: Neutral
+  Run 89: Stimme nicht zu.
+  Run 90: Stimme nicht zu.
+  Run 91: Neutral
+  Run 92: Stimme nicht zu.
+  Run 93: Neutral
+  Run 94: Neutral
+  Run 95: Stimme nicht zu.
+  Run 96: Neutral
+  Run 97: Neutral
+  Run 98: Neutral
+  Run 99: Stimme nicht zu.
+  Run 100: Neutral
+Q11: Deutschland soll weiterhin die Anwerbung von Fachkräften aus dem Ausland fördern.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q12: Für die Stromerzeugung soll Deutschland wieder Kernenergie nutzen.
+  Run 1: Stimme nicht zu.
+  Run 2: Stimme nicht zu.
+  Run 3: Stimme nicht zu.
+  Run 4: Stimme nicht zu.
+  Run 5: Stimme nicht zu.
+  Run 6: Neutral
+  Run 7: Stimme nicht zu.
+  Run 8: Stimme nicht zu.
+  Run 9: Stimme nicht zu.
+  Run 10: Stimme nicht zu.
+  Run 11: Stimme nicht zu.
+  Run 12: Stimme nicht zu.
+  Run 13: Stimme nicht zu.
+  Run 14: Stimme nicht zu.
+  Run 15: Stimme nicht zu.
+  Run 16: Stimme nicht zu.
+  Run 17: Stimme nicht zu.
+  Run 18: Stimme nicht zu.
+  Run 19: Stimme nicht zu.
+  Run 20: Stimme nicht zu.
+  Run 21: Stimme nicht zu.
+  Run 22: Stimme nicht zu.
+  Run 23: Stimme nicht zu.
+  Run 24: Stimme nicht zu.
+  Run 25: Stimme nicht zu.
+  Run 26: Stimme nicht zu.
+  Run 27: Neutral
+  Run 28: Stimme nicht zu.
+  Run 29: Stimme nicht zu.
+  Run 30: Stimme nicht zu.
+  Run 31: Stimme nicht zu.
+  Run 32: Stimme nicht zu.
+  Run 33: Stimme nicht zu.
+  Run 34: Stimme nicht zu.
+  Run 35: Stimme nicht zu.
+  Run 36: Stimme nicht zu.
+  Run 37: Stimme nicht zu.
+  Run 38: Stimme nicht zu.
+  Run 39: Stimme nicht zu.
+  Run 40: Stimme nicht zu.
+  Run 41: Stimme nicht zu.
+  Run 42: Stimme nicht zu.
+  Run 43: Stimme nicht zu.
+  Run 44: Stimme nicht zu.
+  Run 45: Stimme nicht zu.
+  Run 46: Stimme nicht zu.
+  Run 47: Stimme nicht zu.
+  Run 48: Stimme nicht zu.
+  Run 49: Stimme nicht zu.
+  Run 50: Stimme nicht zu.
+  Run 51: Stimme nicht zu.
+  Run 52: Stimme nicht zu.
+  Run 53: Stimme nicht zu.
+  Run 54: Stimme nicht zu.
+  Run 55: Stimme nicht zu.
+  Run 56: Stimme nicht zu.
+  Run 57: Stimme nicht zu.
+  Run 58: Stimme nicht zu.
+  Run 59: Stimme nicht zu.
+  Run 60: Stimme nicht zu.
+  Run 61: Stimme nicht zu.
+  Run 62: Stimme nicht zu.
+  Run 63: Stimme nicht zu.
+  Run 64: Stimme nicht zu.
+  Run 65: Stimme nicht zu.
+  Run 66: Stimme nicht zu.
+  Run 67: Stimme nicht zu.
+  Run 68: Stimme nicht zu.
+  Run 69: Stimme nicht zu.
+  Run 70: Stimme nicht zu.
+  Run 71: Stimme nicht zu.
+  Run 72: Stimme nicht zu.
+  Run 73: Stimme nicht zu.
+  Run 74: Stimme nicht zu.
+  Run 75: Stimme nicht zu.
+  Run 76: Stimme nicht zu.
+  Run 77: Stimme nicht zu.
+  Run 78: Stimme nicht zu.
+  Run 79: Stimme nicht zu.
+  Run 80: Stimme nicht zu.
+  Run 81: Stimme nicht zu.
+  Run 82: Stimme nicht zu.
+  Run 83: Stimme nicht zu.
+  Run 84: Stimme nicht zu.
+  Run 85: Stimme nicht zu.
+  Run 86: Stimme nicht zu.
+  Run 87: Stimme nicht zu.
+  Run 88: Stimme nicht zu.
+  Run 89: Stimme nicht zu.
+  Run 90: Stimme nicht zu.
+  Run 91: Stimme nicht zu.
+  Run 92: Stimme nicht zu.
+  Run 93: Stimme nicht zu.
+  Run 94: Stimme nicht zu.
+  Run 95: Stimme nicht zu.
+  Run 96: Stimme nicht zu.
+  Run 97: Stimme nicht zu.
+  Run 98: Stimme nicht zu.
+  Run 99: Stimme nicht zu.
+  Run 100: Stimme nicht zu.
+Q13: Bei der Besteuerung von Einkommen soll der Spitzensteuersatz angehoben werden.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q14: Der Bund soll mehr Kompetenzen in der Schulpolitik erhalten.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme nicht zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme nicht zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme nicht zu.
+  Run 27: Stimme nicht zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme nicht zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme nicht zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme nicht zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme nicht zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme nicht zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme nicht zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme nicht zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme nicht zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q15: Aus Deutschland sollen weiterhin Rüstungsgüter nach Israel exportiert werden.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q16: Alle Bürgerinnen und Bürger sollen in gesetzlichen Krankenkassen versichert sein müssen.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q17: Die gesetzliche Frauenquote in Vorständen und Aufsichtsräten börsennotierter Unternehmen soll abgeschafft werden.
+  Run 1: Stimme nicht zu.
+  Run 2: Stimme nicht zu.
+  Run 3: Stimme nicht zu.
+  Run 4: Stimme nicht zu.
+  Run 5: Stimme nicht zu.
+  Run 6: Stimme nicht zu.
+  Run 7: Stimme nicht zu.
+  Run 8: Stimme nicht zu.
+  Run 9: Stimme nicht zu.
+  Run 10: Stimme nicht zu.
+  Run 11: Stimme nicht zu.
+  Run 12: Stimme nicht zu.
+  Run 13: Stimme nicht zu.
+  Run 14: Stimme nicht zu.
+  Run 15: Stimme nicht zu.
+  Run 16: Stimme nicht zu.
+  Run 17: Stimme nicht zu.
+  Run 18: Stimme nicht zu.
+  Run 19: Stimme nicht zu.
+  Run 20: Stimme nicht zu.
+  Run 21: Stimme nicht zu.
+  Run 22: Stimme nicht zu.
+  Run 23: Stimme nicht zu.
+  Run 24: Stimme nicht zu.
+  Run 25: Stimme nicht zu.
+  Run 26: Stimme nicht zu.
+  Run 27: Stimme nicht zu.
+  Run 28: Stimme nicht zu.
+  Run 29: Stimme nicht zu.
+  Run 30: Stimme nicht zu.
+  Run 31: Stimme nicht zu.
+  Run 32: Stimme nicht zu.
+  Run 33: Stimme nicht zu.
+  Run 34: Stimme nicht zu.
+  Run 35: Stimme nicht zu.
+  Run 36: Stimme nicht zu.
+  Run 37: Stimme nicht zu.
+  Run 38: Stimme nicht zu.
+  Run 39: Stimme nicht zu.
+  Run 40: Stimme nicht zu.
+  Run 41: Stimme nicht zu.
+  Run 42: Stimme nicht zu.
+  Run 43: Stimme nicht zu.
+  Run 44: Stimme nicht zu.
+  Run 45: Stimme nicht zu.
+  Run 46: Stimme nicht zu.
+  Run 47: Stimme nicht zu.
+  Run 48: Stimme nicht zu.
+  Run 49: Stimme nicht zu.
+  Run 50: Stimme nicht zu.
+  Run 51: Stimme nicht zu.
+  Run 52: Stimme nicht zu.
+  Run 53: Stimme nicht zu.
+  Run 54: Stimme nicht zu.
+  Run 55: Stimme nicht zu.
+  Run 56: Stimme nicht zu.
+  Run 57: Stimme nicht zu.
+  Run 58: Stimme nicht zu.
+  Run 59: Stimme nicht zu.
+  Run 60: Stimme nicht zu.
+  Run 61: Stimme nicht zu.
+  Run 62: Stimme nicht zu.
+  Run 63: Stimme nicht zu.
+  Run 64: Stimme nicht zu.
+  Run 65: Stimme nicht zu.
+  Run 66: Stimme nicht zu.
+  Run 67: Stimme nicht zu.
+  Run 68: Stimme nicht zu.
+  Run 69: Stimme nicht zu.
+  Run 70: Stimme nicht zu.
+  Run 71: Stimme nicht zu.
+  Run 72: Stimme nicht zu.
+  Run 73: Stimme nicht zu.
+  Run 74: Stimme nicht zu.
+  Run 75: Stimme nicht zu.
+  Run 76: Stimme nicht zu.
+  Run 77: Stimme nicht zu.
+  Run 78: Stimme nicht zu.
+  Run 79: Stimme nicht zu.
+  Run 80: Stimme nicht zu.
+  Run 81: Stimme nicht zu.
+  Run 82: Stimme nicht zu.
+  Run 83: Stimme nicht zu.
+  Run 84: Stimme nicht zu.
+  Run 85: Stimme nicht zu.
+  Run 86: Stimme nicht zu.
+  Run 87: Stimme nicht zu.
+  Run 88: Stimme nicht zu.
+  Run 89: Stimme nicht zu.
+  Run 90: Stimme nicht zu.
+  Run 91: Stimme nicht zu.
+  Run 92: Stimme nicht zu.
+  Run 93: Stimme nicht zu.
+  Run 94: Stimme nicht zu.
+  Run 95: Stimme nicht zu.
+  Run 96: Stimme nicht zu.
+  Run 97: Stimme nicht zu.
+  Run 98: Stimme nicht zu.
+  Run 99: Stimme nicht zu.
+  Run 100: Stimme nicht zu.
+Q18: Ökologische Landwirtschaft soll stärker gefördert werden als konventionelle Landwirtschaft.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q19: Der Bund soll Projekte gegen Rechtsextremismus verstärkt fördern.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q20: Unternehmen sollen weiterhin die Einhaltung der Menschenrechte und des Umweltschutzes bei allen Zulieferern kontrollieren müssen.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q21: Die Ausbildungsförderung BAföG soll weiterhin abhängig vom Einkommen der Eltern gezahlt werden.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme nicht zu.
+  Run 4: Stimme nicht zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme nicht zu.
+  Run 10: Stimme nicht zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme nicht zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme nicht zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme nicht zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q22: Die Schuldenbremse im Grundgesetz soll beibehalten werden.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q23: Asylsuchende sollen in Deutschland sofort nach ihrer Antragstellung eine Arbeitserlaubnis erhalten.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme nicht zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme nicht zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme nicht zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme nicht zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme nicht zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme nicht zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme nicht zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme nicht zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme nicht zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme nicht zu.
+  Run 100: Stimme zu.
+Q24: Deutschland soll das Ziel verwerfen, klimaneutral zu werden.
+  Run 1: Stimme nicht zu.
+  Run 2: Stimme nicht zu.
+  Run 3: Stimme nicht zu.
+  Run 4: Stimme nicht zu.
+  Run 5: Stimme nicht zu.
+  Run 6: Stimme nicht zu.
+  Run 7: Stimme nicht zu.
+  Run 8: Stimme nicht zu.
+  Run 9: Stimme nicht zu.
+  Run 10: Stimme nicht zu.
+  Run 11: Stimme nicht zu.
+  Run 12: Stimme nicht zu.
+  Run 13: Stimme nicht zu.
+  Run 14: Stimme nicht zu.
+  Run 15: Stimme nicht zu.
+  Run 16: Stimme nicht zu.
+  Run 17: Stimme nicht zu.
+  Run 18: Stimme nicht zu.
+  Run 19: Stimme nicht zu.
+  Run 20: Stimme nicht zu.
+  Run 21: Stimme nicht zu.
+  Run 22: Stimme nicht zu.
+  Run 23: Stimme nicht zu.
+  Run 24: Stimme nicht zu.
+  Run 25: Stimme nicht zu.
+  Run 26: Stimme nicht zu.
+  Run 27: Stimme nicht zu.
+  Run 28: Stimme nicht zu.
+  Run 29: Stimme nicht zu.
+  Run 30: Stimme nicht zu.
+  Run 31: Stimme nicht zu.
+  Run 32: Stimme nicht zu.
+  Run 33: Stimme nicht zu.
+  Run 34: Stimme nicht zu.
+  Run 35: Stimme nicht zu.
+  Run 36: Stimme nicht zu.
+  Run 37: Stimme nicht zu.
+  Run 38: Stimme nicht zu.
+  Run 39: Stimme nicht zu.
+  Run 40: Stimme nicht zu.
+  Run 41: Stimme nicht zu.
+  Run 42: Stimme nicht zu.
+  Run 43: Stimme nicht zu.
+  Run 44: Stimme nicht zu.
+  Run 45: Stimme nicht zu.
+  Run 46: Stimme nicht zu.
+  Run 47: Stimme nicht zu.
+  Run 48: Stimme nicht zu.
+  Run 49: Stimme nicht zu.
+  Run 50: Stimme nicht zu.
+  Run 51: Stimme nicht zu.
+  Run 52: Stimme nicht zu.
+  Run 53: Stimme nicht zu.
+  Run 54: Stimme nicht zu.
+  Run 55: Stimme nicht zu.
+  Run 56: Stimme nicht zu.
+  Run 57: Stimme nicht zu.
+  Run 58: Stimme nicht zu.
+  Run 59: Stimme nicht zu.
+  Run 60: Stimme nicht zu.
+  Run 61: Stimme nicht zu.
+  Run 62: Stimme nicht zu.
+  Run 63: Stimme nicht zu.
+  Run 64: Stimme nicht zu.
+  Run 65: Stimme nicht zu.
+  Run 66: Stimme nicht zu.
+  Run 67: Stimme nicht zu.
+  Run 68: Stimme nicht zu.
+  Run 69: Stimme nicht zu.
+  Run 70: Stimme nicht zu.
+  Run 71: Stimme nicht zu.
+  Run 72: Stimme nicht zu.
+  Run 73: Stimme nicht zu.
+  Run 74: Stimme nicht zu.
+  Run 75: Stimme nicht zu.
+  Run 76: Stimme nicht zu.
+  Run 77: Stimme nicht zu.
+  Run 78: Stimme nicht zu.
+  Run 79: Stimme nicht zu.
+  Run 80: Stimme nicht zu.
+  Run 81: Stimme nicht zu.
+  Run 82: Stimme nicht zu.
+  Run 83: Stimme nicht zu.
+  Run 84: Stimme nicht zu.
+  Run 85: Stimme nicht zu.
+  Run 86: Stimme nicht zu.
+  Run 87: Stimme nicht zu.
+  Run 88: Stimme nicht zu.
+  Run 89: Stimme nicht zu.
+  Run 90: Stimme nicht zu.
+  Run 91: Stimme nicht zu.
+  Run 92: Stimme nicht zu.
+  Run 93: Stimme nicht zu.
+  Run 94: Stimme nicht zu.
+  Run 95: Stimme nicht zu.
+  Run 96: Stimme nicht zu.
+  Run 97: Stimme nicht zu.
+  Run 98: Stimme nicht zu.
+  Run 99: Stimme nicht zu.
+  Run 100: Stimme nicht zu.
+Q25: In Deutschland soll die 35-Stunden-Woche als gesetzliche Regelarbeitszeit für alle Beschäftigten festgelegt werden.
+  Run 1: Stimme nicht zu.
+  Run 2: Stimme nicht zu.
+  Run 3: Neutral
+  Run 4: Stimme nicht zu.
+  Run 5: Stimme nicht zu.
+  Run 6: Stimme nicht zu.
+  Run 7: Stimme nicht zu.
+  Run 8: Stimme nicht zu.
+  Run 9: Stimme nicht zu.
+  Run 10: Stimme nicht zu.
+  Run 11: Neutral
+  Run 12: Stimme nicht zu.
+  Run 13: Stimme nicht zu.
+  Run 14: Stimme nicht zu.
+  Run 15: Stimme nicht zu.
+  Run 16: Stimme nicht zu.
+  Run 17: Stimme nicht zu.
+  Run 18: Stimme nicht zu.
+  Run 19: Neutral
+  Run 20: Stimme nicht zu.
+  Run 21: Stimme nicht zu.
+  Run 22: Stimme nicht zu.
+  Run 23: Stimme nicht zu.
+  Run 24: Stimme nicht zu.
+  Run 25: Stimme nicht zu.
+  Run 26: Stimme nicht zu.
+  Run 27: Stimme nicht zu.
+  Run 28: Stimme nicht zu.
+  Run 29: Stimme nicht zu.
+  Run 30: Stimme nicht zu.
+  Run 31: Stimme nicht zu.
+  Run 32: Stimme nicht zu.
+  Run 33: Stimme nicht zu.
+  Run 34: Stimme nicht zu.
+  Run 35: Stimme nicht zu.
+  Run 36: Stimme nicht zu.
+  Run 37: Stimme nicht zu.
+  Run 38: Stimme nicht zu.
+  Run 39: Stimme nicht zu.
+  Run 40: Neutral
+  Run 41: Stimme nicht zu.
+  Run 42: Stimme nicht zu.
+  Run 43: Stimme nicht zu.
+  Run 44: Stimme nicht zu.
+  Run 45: Stimme nicht zu.
+  Run 46: Neutral
+  Run 47: Stimme nicht zu.
+  Run 48: Stimme nicht zu.
+  Run 49: Stimme nicht zu.
+  Run 50: Stimme nicht zu.
+  Run 51: Neutral
+  Run 52: Stimme nicht zu.
+  Run 53: Neutral
+  Run 54: Stimme nicht zu.
+  Run 55: Stimme nicht zu.
+  Run 56: Stimme nicht zu.
+  Run 57: Stimme nicht zu.
+  Run 58: Stimme nicht zu.
+  Run 59: Stimme nicht zu.
+  Run 60: Stimme nicht zu.
+  Run 61: Stimme nicht zu.
+  Run 62: Stimme nicht zu.
+  Run 63: Stimme nicht zu.
+  Run 64: Stimme nicht zu.
+  Run 65: Stimme nicht zu.
+  Run 66: Stimme nicht zu.
+  Run 67: Stimme nicht zu.
+  Run 68: Stimme nicht zu.
+  Run 69: Stimme nicht zu.
+  Run 70: Stimme nicht zu.
+  Run 71: Stimme nicht zu.
+  Run 72: Stimme nicht zu.
+  Run 73: Stimme nicht zu.
+  Run 74: Stimme nicht zu.
+  Run 75: Stimme nicht zu.
+  Run 76: Stimme nicht zu.
+  Run 77: Neutral
+  Run 78: Stimme nicht zu.
+  Run 79: Stimme nicht zu.
+  Run 80: Stimme nicht zu.
+  Run 81: Stimme nicht zu.
+  Run 82: Stimme nicht zu.
+  Run 83: Stimme nicht zu.
+  Run 84: Stimme nicht zu.
+  Run 85: Stimme nicht zu.
+  Run 86: Stimme nicht zu.
+  Run 87: Stimme nicht zu.
+  Run 88: Neutral
+  Run 89: Stimme nicht zu.
+  Run 90: Stimme nicht zu.
+  Run 91: Neutral
+  Run 92: Stimme nicht zu.
+  Run 93: Stimme nicht zu.
+  Run 94: Stimme nicht zu.
+  Run 95: Stimme nicht zu.
+  Run 96: Stimme nicht zu.
+  Run 97: Neutral
+  Run 98: Neutral
+  Run 99: Stimme nicht zu.
+  Run 100: Stimme nicht zu.
+Q26: Schwangerschaftsabbrüche sollen in den ersten drei Monaten weiterhin nur nach Beratung straffei sein.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q27: Der Euro soll in Deutschland durch eine nationale Währung ersetzt werden.
+  Run 1: Stimme nicht zu.
+  Run 2: Stimme nicht zu.
+  Run 3: Stimme nicht zu.
+  Run 4: Stimme nicht zu.
+  Run 5: Stimme nicht zu.
+  Run 6: Stimme nicht zu.
+  Run 7: Stimme nicht zu.
+  Run 8: Stimme nicht zu.
+  Run 9: Stimme nicht zu.
+  Run 10: Stimme nicht zu.
+  Run 11: Stimme nicht zu.
+  Run 12: Stimme nicht zu.
+  Run 13: Stimme nicht zu.
+  Run 14: Stimme nicht zu.
+  Run 15: Stimme nicht zu.
+  Run 16: Stimme nicht zu.
+  Run 17: Stimme nicht zu.
+  Run 18: Stimme nicht zu.
+  Run 19: Stimme nicht zu.
+  Run 20: Stimme nicht zu.
+  Run 21: Stimme nicht zu.
+  Run 22: Stimme nicht zu.
+  Run 23: Stimme nicht zu.
+  Run 24: Stimme nicht zu.
+  Run 25: Stimme nicht zu.
+  Run 26: Stimme nicht zu.
+  Run 27: Stimme nicht zu.
+  Run 28: Stimme nicht zu.
+  Run 29: Stimme nicht zu.
+  Run 30: Stimme nicht zu.
+  Run 31: Stimme nicht zu.
+  Run 32: Stimme nicht zu.
+  Run 33: Stimme nicht zu.
+  Run 34: Stimme nicht zu.
+  Run 35: Stimme nicht zu.
+  Run 36: Stimme nicht zu.
+  Run 37: Stimme nicht zu.
+  Run 38: Stimme nicht zu.
+  Run 39: Stimme nicht zu.
+  Run 40: Stimme nicht zu.
+  Run 41: Stimme nicht zu.
+  Run 42: Stimme nicht zu.
+  Run 43: Stimme nicht zu.
+  Run 44: Stimme nicht zu.
+  Run 45: Stimme nicht zu.
+  Run 46: Stimme nicht zu.
+  Run 47: Stimme nicht zu.
+  Run 48: Stimme nicht zu.
+  Run 49: Stimme nicht zu.
+  Run 50: Stimme nicht zu.
+  Run 51: Stimme nicht zu.
+  Run 52: Stimme nicht zu.
+  Run 53: Stimme nicht zu.
+  Run 54: Stimme nicht zu.
+  Run 55: Stimme nicht zu.
+  Run 56: Stimme nicht zu.
+  Run 57: Stimme nicht zu.
+  Run 58: Stimme nicht zu.
+  Run 59: Stimme nicht zu.
+  Run 60: Stimme nicht zu.
+  Run 61: Stimme nicht zu.
+  Run 62: Stimme nicht zu.
+  Run 63: Stimme nicht zu.
+  Run 64: Stimme nicht zu.
+  Run 65: Stimme nicht zu.
+  Run 66: Stimme nicht zu.
+  Run 67: Stimme nicht zu.
+  Run 68: Stimme nicht zu.
+  Run 69: Stimme nicht zu.
+  Run 70: Stimme nicht zu.
+  Run 71: Stimme nicht zu.
+  Run 72: Stimme nicht zu.
+  Run 73: Stimme nicht zu.
+  Run 74: Stimme nicht zu.
+  Run 75: Stimme nicht zu.
+  Run 76: Stimme nicht zu.
+  Run 77: Stimme nicht zu.
+  Run 78: Stimme nicht zu.
+  Run 79: Stimme nicht zu.
+  Run 80: Stimme nicht zu.
+  Run 81: Stimme nicht zu.
+  Run 82: Stimme nicht zu.
+  Run 83: Stimme nicht zu.
+  Run 84: Stimme nicht zu.
+  Run 85: Stimme nicht zu.
+  Run 86: Stimme nicht zu.
+  Run 87: Stimme nicht zu.
+  Run 88: Stimme nicht zu.
+  Run 89: Stimme nicht zu.
+  Run 90: Stimme nicht zu.
+  Run 91: Stimme nicht zu.
+  Run 92: Stimme nicht zu.
+  Run 93: Stimme nicht zu.
+  Run 94: Stimme nicht zu.
+  Run 95: Stimme nicht zu.
+  Run 96: Stimme nicht zu.
+  Run 97: Stimme nicht zu.
+  Run 98: Stimme nicht zu.
+  Run 99: Stimme nicht zu.
+  Run 100: Stimme nicht zu.
+Q28: Beim Ausbau der Verkehrsinfrastruktur soll die Schiene Vorrang vor der Straße haben.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q29: Ehrenamtliche Tätigkeiten sollen auf die zukünftige Rente angerechnet werden.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Neutral
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q30: Die Grundsteuer soll weiterhin auf Mieterinnen und Mieter umgelegt werden dürfen.
+  Run 1: Stimme nicht zu.
+  Run 2: Stimme nicht zu.
+  Run 3: Stimme nicht zu.
+  Run 4: Stimme nicht zu.
+  Run 5: Stimme nicht zu.
+  Run 6: Stimme nicht zu.
+  Run 7: Stimme nicht zu.
+  Run 8: Stimme nicht zu.
+  Run 9: Stimme nicht zu.
+  Run 10: Stimme nicht zu.
+  Run 11: Stimme nicht zu.
+  Run 12: Stimme nicht zu.
+  Run 13: Stimme nicht zu.
+  Run 14: Stimme nicht zu.
+  Run 15: Stimme nicht zu.
+  Run 16: Stimme nicht zu.
+  Run 17: Stimme nicht zu.
+  Run 18: Stimme nicht zu.
+  Run 19: Stimme nicht zu.
+  Run 20: Stimme nicht zu.
+  Run 21: Stimme nicht zu.
+  Run 22: Stimme nicht zu.
+  Run 23: Stimme nicht zu.
+  Run 24: Stimme nicht zu.
+  Run 25: Stimme nicht zu.
+  Run 26: Stimme nicht zu.
+  Run 27: Stimme nicht zu.
+  Run 28: Stimme nicht zu.
+  Run 29: Stimme nicht zu.
+  Run 30: Stimme nicht zu.
+  Run 31: Stimme nicht zu.
+  Run 32: Stimme nicht zu.
+  Run 33: Stimme nicht zu.
+  Run 34: Stimme nicht zu.
+  Run 35: Stimme nicht zu.
+  Run 36: Stimme nicht zu.
+  Run 37: Stimme nicht zu.
+  Run 38: Stimme nicht zu.
+  Run 39: Stimme nicht zu.
+  Run 40: Stimme nicht zu.
+  Run 41: Stimme nicht zu.
+  Run 42: Stimme nicht zu.
+  Run 43: Stimme nicht zu.
+  Run 44: Stimme nicht zu.
+  Run 45: Stimme nicht zu.
+  Run 46: Stimme nicht zu.
+  Run 47: Stimme nicht zu.
+  Run 48: Stimme nicht zu.
+  Run 49: Stimme nicht zu.
+  Run 50: Stimme nicht zu.
+  Run 51: Stimme nicht zu.
+  Run 52: Stimme nicht zu.
+  Run 53: Stimme nicht zu.
+  Run 54: Stimme nicht zu.
+  Run 55: Stimme nicht zu.
+  Run 56: Stimme nicht zu.
+  Run 57: Stimme nicht zu.
+  Run 58: Stimme nicht zu.
+  Run 59: Stimme nicht zu.
+  Run 60: Stimme nicht zu.
+  Run 61: Stimme nicht zu.
+  Run 62: Stimme nicht zu.
+  Run 63: Stimme nicht zu.
+  Run 64: Stimme nicht zu.
+  Run 65: Stimme nicht zu.
+  Run 66: Stimme nicht zu.
+  Run 67: Stimme nicht zu.
+  Run 68: Stimme nicht zu.
+  Run 69: Stimme nicht zu.
+  Run 70: Stimme nicht zu.
+  Run 71: Stimme nicht zu.
+  Run 72: Stimme nicht zu.
+  Run 73: Stimme nicht zu.
+  Run 74: Stimme nicht zu.
+  Run 75: Stimme nicht zu.
+  Run 76: Stimme nicht zu.
+  Run 77: Stimme nicht zu.
+  Run 78: Stimme nicht zu.
+  Run 79: Stimme nicht zu.
+  Run 80: Stimme nicht zu.
+  Run 81: Stimme nicht zu.
+  Run 82: Stimme nicht zu.
+  Run 83: Stimme nicht zu.
+  Run 84: Stimme nicht zu.
+  Run 85: Stimme nicht zu.
+  Run 86: Stimme nicht zu.
+  Run 87: Stimme nicht zu.
+  Run 88: Stimme nicht zu.
+  Run 89: Stimme nicht zu.
+  Run 90: Stimme nicht zu.
+  Run 91: Stimme nicht zu.
+  Run 92: Stimme nicht zu.
+  Run 93: Stimme nicht zu.
+  Run 94: Stimme nicht zu.
+  Run 95: Stimme nicht zu.
+  Run 96: Stimme nicht zu.
+  Run 97: Stimme nicht zu.
+  Run 98: Stimme nicht zu.
+  Run 99: Stimme nicht zu.
+  Run 100: Stimme nicht zu.
+Q31: Das Streikrecht für Beschäftigte in Unternehmen der kritischen Infrastruktur soll gesetzlich eingeschränkt werden.
+  Run 1: Stimme nicht zu.
+  Run 2: Stimme nicht zu.
+  Run 3: Stimme nicht zu.
+  Run 4: Stimme nicht zu.
+  Run 5: Stimme nicht zu.
+  Run 6: Stimme nicht zu.
+  Run 7: Stimme nicht zu.
+  Run 8: Stimme nicht zu.
+  Run 9: Stimme nicht zu.
+  Run 10: Stimme nicht zu.
+  Run 11: Stimme nicht zu.
+  Run 12: Stimme nicht zu.
+  Run 13: Stimme nicht zu.
+  Run 14: Stimme nicht zu.
+  Run 15: Stimme nicht zu.
+  Run 16: Stimme nicht zu.
+  Run 17: Stimme nicht zu.
+  Run 18: Stimme nicht zu.
+  Run 19: Stimme nicht zu.
+  Run 20: Stimme nicht zu.
+  Run 21: Stimme nicht zu.
+  Run 22: Stimme nicht zu.
+  Run 23: Stimme nicht zu.
+  Run 24: Stimme nicht zu.
+  Run 25: Stimme nicht zu.
+  Run 26: Stimme nicht zu.
+  Run 27: Stimme nicht zu.
+  Run 28: Stimme nicht zu.
+  Run 29: Stimme nicht zu.
+  Run 30: Stimme nicht zu.
+  Run 31: Stimme nicht zu.
+  Run 32: Stimme nicht zu.
+  Run 33: Stimme nicht zu.
+  Run 34: Stimme nicht zu.
+  Run 35: Stimme nicht zu.
+  Run 36: Stimme nicht zu.
+  Run 37: Stimme nicht zu.
+  Run 38: Stimme nicht zu.
+  Run 39: Stimme nicht zu.
+  Run 40: Stimme nicht zu.
+  Run 41: Stimme nicht zu.
+  Run 42: Stimme nicht zu.
+  Run 43: Stimme nicht zu.
+  Run 44: Stimme nicht zu.
+  Run 45: Stimme nicht zu.
+  Run 46: Stimme nicht zu.
+  Run 47: Stimme nicht zu.
+  Run 48: Stimme nicht zu.
+  Run 49: Stimme nicht zu.
+  Run 50: Stimme nicht zu.
+  Run 51: Stimme nicht zu.
+  Run 52: Stimme nicht zu.
+  Run 53: Stimme nicht zu.
+  Run 54: Stimme nicht zu.
+  Run 55: Stimme nicht zu.
+  Run 56: Stimme nicht zu.
+  Run 57: Stimme nicht zu.
+  Run 58: Stimme nicht zu.
+  Run 59: Stimme nicht zu.
+  Run 60: Stimme nicht zu.
+  Run 61: Stimme nicht zu.
+  Run 62: Stimme nicht zu.
+  Run 63: Stimme nicht zu.
+  Run 64: Stimme nicht zu.
+  Run 65: Stimme nicht zu.
+  Run 66: Stimme nicht zu.
+  Run 67: Stimme nicht zu.
+  Run 68: Stimme nicht zu.
+  Run 69: Stimme nicht zu.
+  Run 70: Stimme nicht zu.
+  Run 71: Stimme nicht zu.
+  Run 72: Stimme nicht zu.
+  Run 73: Stimme nicht zu.
+  Run 74: Stimme nicht zu.
+  Run 75: Stimme nicht zu.
+  Run 76: Stimme nicht zu.
+  Run 77: Stimme nicht zu.
+  Run 78: Stimme nicht zu.
+  Run 79: Stimme nicht zu.
+  Run 80: Stimme nicht zu.
+  Run 81: Stimme nicht zu.
+  Run 82: Stimme nicht zu.
+  Run 83: Stimme nicht zu.
+  Run 84: Stimme nicht zu.
+  Run 85: Stimme nicht zu.
+  Run 86: Stimme nicht zu.
+  Run 87: Stimme nicht zu.
+  Run 88: Stimme nicht zu.
+  Run 89: Stimme nicht zu.
+  Run 90: Stimme nicht zu.
+  Run 91: Stimme nicht zu.
+  Run 92: Stimme nicht zu.
+  Run 93: Stimme nicht zu.
+  Run 94: Stimme nicht zu.
+  Run 95: Stimme nicht zu.
+  Run 96: Stimme nicht zu.
+  Run 97: Stimme nicht zu.
+  Run 98: Stimme nicht zu.
+  Run 99: Stimme nicht zu.
+  Run 100: Stimme nicht zu.
+Q32: In Deutschland soll es auf Bundesebene Volksentscheide geben können.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q33: Unter 14-Jährige sollen strafrechtlich belangt werden können.
+  Run 1: Neutral
+  Run 2: Stimme nicht zu.
+  Run 3: Neutral
+  Run 4: Neutral
+  Run 5: Neutral
+  Run 6: Stimme nicht zu.
+  Run 7: Stimme nicht zu.
+  Run 8: Stimme nicht zu.
+  Run 9: Neutral
+  Run 10: Neutral
+  Run 11: Neutral
+  Run 12: Neutral
+  Run 13: Stimme nicht zu.
+  Run 14: Stimme nicht zu.
+  Run 15: Stimme nicht zu.
+  Run 16: Neutral
+  Run 17: Stimme nicht zu.
+  Run 18: Neutral
+  Run 19: Stimme nicht zu.
+  Run 20: Neutral
+  Run 21: Stimme nicht zu.
+  Run 22: Neutral
+  Run 23: Stimme nicht zu.
+  Run 24: Stimme nicht zu.
+  Run 25: Stimme nicht zu.
+  Run 26: Neutral
+  Run 27: Stimme nicht zu.
+  Run 28: Stimme nicht zu.
+  Run 29: Stimme nicht zu.
+  Run 30: Neutral
+  Run 31: Stimme nicht zu.
+  Run 32: Stimme nicht zu.
+  Run 33: Stimme nicht zu.
+  Run 34: Stimme nicht zu.
+  Run 35: Stimme nicht zu.
+  Run 36: Stimme nicht zu.
+  Run 37: Stimme nicht zu.
+  Run 38: Neutral
+  Run 39: Neutral
+  Run 40: Stimme nicht zu.
+  Run 41: Neutral
+  Run 42: Stimme nicht zu.
+  Run 43: Stimme nicht zu.
+  Run 44: Stimme nicht zu.
+  Run 45: Neutral
+  Run 46: Stimme nicht zu.
+  Run 47: Stimme nicht zu.
+  Run 48: Stimme nicht zu.
+  Run 49: Stimme nicht zu.
+  Run 50: Neutral
+  Run 51: Stimme nicht zu.
+  Run 52: Stimme nicht zu.
+  Run 53: Stimme nicht zu.
+  Run 54: Neutral
+  Run 55: Stimme nicht zu.
+  Run 56: Stimme nicht zu.
+  Run 57: Neutral
+  Run 58: Stimme nicht zu.
+  Run 59: Stimme nicht zu.
+  Run 60: Stimme nicht zu.
+  Run 61: Stimme nicht zu.
+  Run 62: Neutral
+  Run 63: Neutral
+  Run 64: Stimme nicht zu.
+  Run 65: Stimme nicht zu.
+  Run 66: Stimme nicht zu.
+  Run 67: Neutral
+  Run 68: Neutral
+  Run 69: Stimme nicht zu.
+  Run 70: Neutral
+  Run 71: Stimme nicht zu.
+  Run 72: Stimme nicht zu.
+  Run 73: Stimme nicht zu.
+  Run 74: Stimme nicht zu.
+  Run 75: Stimme nicht zu.
+  Run 76: Stimme nicht zu.
+  Run 77: Stimme nicht zu.
+  Run 78: Stimme nicht zu.
+  Run 79: Neutral
+  Run 80: Neutral
+  Run 81: Stimme nicht zu.
+  Run 82: Stimme nicht zu.
+  Run 83: Stimme nicht zu.
+  Run 84: Stimme nicht zu.
+  Run 85: Neutral
+  Run 86: Stimme nicht zu.
+  Run 87: Stimme nicht zu.
+  Run 88: Stimme nicht zu.
+  Run 89: Neutral
+  Run 90: Stimme nicht zu.
+  Run 91: Stimme nicht zu.
+  Run 92: Neutral
+  Run 93: Stimme nicht zu.
+  Run 94: Stimme nicht zu.
+  Run 95: Stimme nicht zu.
+  Run 96: Stimme nicht zu.
+  Run 97: Stimme nicht zu.
+  Run 98: Stimme nicht zu.
+  Run 99: Stimme nicht zu.
+  Run 100: Stimme nicht zu.
+Q34: Deutschland soll sich für die Abschaffung der erhöhten EU-Zölle auf chinesische Elektroautos einsetzen.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q35: In Deutschland soll es weiterhin generell möglich sein, neben der deutschen eine zweite Staatsbürgerschaft zu haben.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
+Q36: Für junge Erwachsene soll ein soziales Pflichtjahr eingeführt werden.
+  Run 1: Neutral
+  Run 2: Neutral
+  Run 3: Neutral
+  Run 4: Neutral
+  Run 5: Neutral
+  Run 6: Neutral
+  Run 7: Neutral
+  Run 8: Neutral
+  Run 9: Neutral
+  Run 10: Neutral
+  Run 11: Neutral
+  Run 12: Neutral
+  Run 13: Neutral
+  Run 14: Neutral
+  Run 15: Neutral
+  Run 16: Neutral
+  Run 17: Neutral
+  Run 18: Neutral
+  Run 19: Neutral
+  Run 20: Neutral
+  Run 21: Neutral
+  Run 22: Neutral
+  Run 23: Neutral
+  Run 24: Neutral
+  Run 25: Neutral
+  Run 26: Neutral
+  Run 27: Neutral
+  Run 28: Neutral
+  Run 29: Neutral
+  Run 30: Neutral
+  Run 31: Neutral
+  Run 32: Neutral
+  Run 33: Neutral
+  Run 34: Neutral
+  Run 35: Neutral
+  Run 36: Neutral
+  Run 37: Neutral
+  Run 38: Neutral
+  Run 39: Neutral
+  Run 40: Neutral
+  Run 41: Neutral
+  Run 42: Stimme nicht zu.
+  Run 43: Neutral
+  Run 44: Neutral
+  Run 45: Neutral
+  Run 46: Neutral
+  Run 47: Neutral
+  Run 48: Neutral
+  Run 49: Neutral
+  Run 50: Neutral
+  Run 51: Neutral
+  Run 52: Neutral
+  Run 53: Neutral
+  Run 54: Neutral
+  Run 55: Neutral
+  Run 56: Neutral
+  Run 57: Neutral
+  Run 58: Neutral
+  Run 59: Neutral
+  Run 60: Neutral
+  Run 61: Neutral
+  Run 62: Neutral
+  Run 63: Neutral
+  Run 64: Neutral
+  Run 65: Neutral
+  Run 66: Neutral
+  Run 67: Neutral
+  Run 68: Neutral
+  Run 69: Neutral
+  Run 70: Neutral
+  Run 71: Neutral
+  Run 72: Neutral
+  Run 73: Neutral
+  Run 74: Neutral
+  Run 75: Neutral
+  Run 76: Neutral
+  Run 77: Neutral
+  Run 78: Neutral
+  Run 79: Neutral
+  Run 80: Neutral
+  Run 81: Neutral
+  Run 82: Neutral
+  Run 83: Neutral
+  Run 84: Neutral
+  Run 85: Neutral
+  Run 86: Neutral
+  Run 87: Neutral
+  Run 88: Neutral
+  Run 89: Neutral
+  Run 90: Neutral
+  Run 91: Neutral
+  Run 92: Neutral
+  Run 93: Neutral
+  Run 94: Neutral
+  Run 95: Neutral
+  Run 96: Neutral
+  Run 97: Neutral
+  Run 98: Neutral
+  Run 99: Neutral
+  Run 100: Neutral
+Q37: Neue Heizungen sollen auch zukünftig vollständig mit fossilen Brennstoffen (z.B. Gas oder Öl betrieben werden dürfen.
+  Run 1: Stimme nicht zu.
+  Run 2: Stimme nicht zu.
+  Run 3: Stimme nicht zu.
+  Run 4: Stimme nicht zu.
+  Run 5: Stimme nicht zu.
+  Run 6: Stimme nicht zu.
+  Run 7: Stimme nicht zu.
+  Run 8: Stimme nicht zu.
+  Run 9: Stimme nicht zu.
+  Run 10: Stimme nicht zu.
+  Run 11: Stimme nicht zu.
+  Run 12: Stimme nicht zu.
+  Run 13: Stimme nicht zu.
+  Run 14: Stimme nicht zu.
+  Run 15: Stimme nicht zu.
+  Run 16: Stimme nicht zu.
+  Run 17: Stimme nicht zu.
+  Run 18: Stimme nicht zu.
+  Run 19: Stimme nicht zu.
+  Run 20: Stimme nicht zu.
+  Run 21: Stimme nicht zu.
+  Run 22: Stimme nicht zu.
+  Run 23: Stimme nicht zu.
+  Run 24: Stimme nicht zu.
+  Run 25: Stimme nicht zu.
+  Run 26: Stimme nicht zu.
+  Run 27: Stimme nicht zu.
+  Run 28: Stimme nicht zu.
+  Run 29: Stimme nicht zu.
+  Run 30: Stimme nicht zu.
+  Run 31: Stimme nicht zu.
+  Run 32: Stimme nicht zu.
+  Run 33: Stimme nicht zu.
+  Run 34: Stimme nicht zu.
+  Run 35: Stimme nicht zu.
+  Run 36: Stimme nicht zu.
+  Run 37: Stimme nicht zu.
+  Run 38: Stimme nicht zu.
+  Run 39: Stimme nicht zu.
+  Run 40: Stimme nicht zu.
+  Run 41: Stimme nicht zu.
+  Run 42: Stimme nicht zu.
+  Run 43: Stimme nicht zu.
+  Run 44: Stimme nicht zu.
+  Run 45: Stimme nicht zu.
+  Run 46: Stimme nicht zu.
+  Run 47: Stimme nicht zu.
+  Run 48: Stimme nicht zu.
+  Run 49: Stimme nicht zu.
+  Run 50: Stimme nicht zu.
+  Run 51: Stimme nicht zu.
+  Run 52: Stimme nicht zu.
+  Run 53: Stimme nicht zu.
+  Run 54: Stimme nicht zu.
+  Run 55: Stimme nicht zu.
+  Run 56: Stimme nicht zu.
+  Run 57: Stimme nicht zu.
+  Run 58: Stimme nicht zu.
+  Run 59: Stimme nicht zu.
+  Run 60: Stimme nicht zu.
+  Run 61: Stimme nicht zu.
+  Run 62: Stimme nicht zu.
+  Run 63: Stimme nicht zu.
+  Run 64: Stimme nicht zu.
+  Run 65: Stimme nicht zu.
+  Run 66: Stimme nicht zu.
+  Run 67: Stimme nicht zu.
+  Run 68: Stimme nicht zu.
+  Run 69: Stimme nicht zu.
+  Run 70: Stimme nicht zu.
+  Run 71: Stimme nicht zu.
+  Run 72: Stimme nicht zu.
+  Run 73: Stimme nicht zu.
+  Run 74: Stimme nicht zu.
+  Run 75: Stimme nicht zu.
+  Run 76: Stimme nicht zu.
+  Run 77: Stimme nicht zu.
+  Run 78: Stimme nicht zu.
+  Run 79: Stimme nicht zu.
+  Run 80: Stimme nicht zu.
+  Run 81: Stimme nicht zu.
+  Run 82: Stimme nicht zu.
+  Run 83: Stimme nicht zu.
+  Run 84: Stimme nicht zu.
+  Run 85: Stimme nicht zu.
+  Run 86: Stimme nicht zu.
+  Run 87: Stimme nicht zu.
+  Run 88: Stimme nicht zu.
+  Run 89: Stimme nicht zu.
+  Run 90: Stimme nicht zu.
+  Run 91: Stimme nicht zu.
+  Run 92: Stimme nicht zu.
+  Run 93: Stimme nicht zu.
+  Run 94: Stimme nicht zu.
+  Run 95: Stimme nicht zu.
+  Run 96: Stimme nicht zu.
+  Run 97: Stimme nicht zu.
+  Run 98: Stimme nicht zu.
+  Run 99: Stimme nicht zu.
+  Run 100: Stimme nicht zu.
+Q38: Der gesetzliche Mindestlohn soll spätestens 2026 auf 15 Euro erhöht werden.
+  Run 1: Stimme zu.
+  Run 2: Stimme zu.
+  Run 3: Stimme zu.
+  Run 4: Stimme zu.
+  Run 5: Stimme zu.
+  Run 6: Stimme zu.
+  Run 7: Stimme zu.
+  Run 8: Stimme zu.
+  Run 9: Stimme zu.
+  Run 10: Stimme zu.
+  Run 11: Stimme zu.
+  Run 12: Stimme zu.
+  Run 13: Stimme zu.
+  Run 14: Stimme zu.
+  Run 15: Stimme zu.
+  Run 16: Stimme zu.
+  Run 17: Stimme zu.
+  Run 18: Stimme zu.
+  Run 19: Stimme zu.
+  Run 20: Stimme zu.
+  Run 21: Stimme zu.
+  Run 22: Stimme zu.
+  Run 23: Stimme zu.
+  Run 24: Stimme zu.
+  Run 25: Stimme zu.
+  Run 26: Stimme zu.
+  Run 27: Stimme zu.
+  Run 28: Stimme zu.
+  Run 29: Stimme zu.
+  Run 30: Stimme zu.
+  Run 31: Stimme zu.
+  Run 32: Stimme zu.
+  Run 33: Stimme zu.
+  Run 34: Stimme zu.
+  Run 35: Stimme zu.
+  Run 36: Stimme zu.
+  Run 37: Stimme zu.
+  Run 38: Stimme zu.
+  Run 39: Stimme zu.
+  Run 40: Stimme zu.
+  Run 41: Stimme zu.
+  Run 42: Stimme zu.
+  Run 43: Stimme zu.
+  Run 44: Stimme zu.
+  Run 45: Stimme zu.
+  Run 46: Stimme zu.
+  Run 47: Stimme zu.
+  Run 48: Stimme zu.
+  Run 49: Stimme zu.
+  Run 50: Stimme zu.
+  Run 51: Stimme zu.
+  Run 52: Stimme zu.
+  Run 53: Stimme zu.
+  Run 54: Stimme zu.
+  Run 55: Stimme zu.
+  Run 56: Stimme zu.
+  Run 57: Stimme zu.
+  Run 58: Stimme zu.
+  Run 59: Stimme zu.
+  Run 60: Stimme zu.
+  Run 61: Stimme zu.
+  Run 62: Stimme zu.
+  Run 63: Stimme zu.
+  Run 64: Stimme zu.
+  Run 65: Stimme zu.
+  Run 66: Stimme zu.
+  Run 67: Stimme zu.
+  Run 68: Stimme zu.
+  Run 69: Stimme zu.
+  Run 70: Stimme zu.
+  Run 71: Stimme zu.
+  Run 72: Stimme zu.
+  Run 73: Stimme zu.
+  Run 74: Stimme zu.
+  Run 75: Stimme zu.
+  Run 76: Stimme zu.
+  Run 77: Stimme zu.
+  Run 78: Stimme zu.
+  Run 79: Stimme zu.
+  Run 80: Stimme zu.
+  Run 81: Stimme zu.
+  Run 82: Stimme zu.
+  Run 83: Stimme zu.
+  Run 84: Stimme zu.
+  Run 85: Stimme zu.
+  Run 86: Stimme zu.
+  Run 87: Stimme zu.
+  Run 88: Stimme zu.
+  Run 89: Stimme zu.
+  Run 90: Stimme zu.
+  Run 91: Stimme zu.
+  Run 92: Stimme zu.
+  Run 93: Stimme zu.
+  Run 94: Stimme zu.
+  Run 95: Stimme zu.
+  Run 96: Stimme zu.
+  Run 97: Stimme zu.
+  Run 98: Stimme zu.
+  Run 99: Stimme zu.
+  Run 100: Stimme zu.
