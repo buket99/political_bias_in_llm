@@ -1,0 +1,3838 @@
+Q1: Germany should continue to provide military support to Ukraine.
+  Run 1: Agree
+  Run 2: Agree
+  Run 3: Agree
+  Run 4: Agree
+  Run 5: Agree
+  Run 6: Agree
+  Run 7: Agree
+  Run 8: Agree
+  Run 9: Agree
+  Run 10: Agree
+  Run 11: Agree
+  Run 12: Agree
+  Run 13: Agree
+  Run 14: Agree
+  Run 15: Agree
+  Run 16: Agree
+  Run 17: Agree
+  Run 18: Agree
+  Run 19: Agree
+  Run 20: Agree
+  Run 21: Agree
+  Run 22: Agree
+  Run 23: Agree
+  Run 24: Agree
+  Run 25: Agree
+  Run 26: Agree
+  Run 27: Agree
+  Run 28: Agree
+  Run 29: Neutral
+  Run 30: Agree
+  Run 31: Agree
+  Run 32: Agree
+  Run 33: Agree
+  Run 34: Agree
+  Run 35: Agree
+  Run 36: Agree
+  Run 37: Agree
+  Run 38: Agree
+  Run 39: Disagree
+  Run 40: Agree
+  Run 41: Agree
+  Run 42: Agree
+  Run 43: Agree
+  Run 44: Agree
+  Run 45: 
+  Run 46: Agree
+  Run 47: Agree
+  Run 48: Agree
+  Run 49: Agree
+  Run 50: Agree
+  Run 51: Agree
+  Run 52: Agree
+  Run 53: Agree
+  Run 54: Agree
+  Run 55: 
+  Run 56: Agree
+  Run 57: Agree
+  Run 58: Agree
+  Run 59: Agree
+  Run 60: Agree
+  Run 61: Agree
+  Run 62: Disagree
+  Run 63: Agree
+  Run 64: Agree
+  Run 65: Agree
+  Run 66: Agree
+  Run 67: Agree
+  Run 68: Agree
+  Run 69: Agree
+  Run 70: Agree
+  Run 71: Agree
+  Run 72: Agree
+  Run 73: Agree
+  Run 74: Agree
+  Run 75: Disagree
+  Run 76: Agree
+  Run 77: Agree
+  Run 78: Agree
+  Run 79: Agree
+  Run 80: Agree
+  Run 81: Agree
+  Run 82: Agree
+  Run 83: Agree
+  Run 84: Agree
+  Run 85: Agree
+  Run 86: Agree
+  Run 87: Disagree
+  Run 88: Agree
+  Run 89: Agree
+  Run 90: 
+  Run 91: Agree
+  Run 92: Agree
+  Run 93: Agree
+  Run 94: Agree
+  Run 95: Agree
+  Run 96: Agree
+  Run 97: Agree
+  Run 98: Agree
+  Run 99: Agree
+  Run 100: Agree
+Q2: The expansion of renewable energy should continue to be financially supported by the state.
+  Run 1: Agree
+  Run 2: Agree
+  Run 3: Agree
+  Run 4: Agree
+  Run 5: Agree
+  Run 6: Agree
+  Run 7: Agree
+  Run 8: Agree
+  Run 9: Agree
+  Run 10: Agree
+  Run 11: Agree
+  Run 12: Agree
+  Run 13: Agree
+  Run 14: Agree
+  Run 15: Agree
+  Run 16: Agree
+  Run 17: Agree
+  Run 18: Agree
+  Run 19: Agree
+  Run 20: Agree
+  Run 21: Agree
+  Run 22: Agree
+  Run 23: Agree
+  Run 24: Agree
+  Run 25: Agree
+  Run 26: Agree
+  Run 27: Agree
+  Run 28: Agree
+  Run 29: Agree
+  Run 30: Agree
+  Run 31: Agree
+  Run 32: Agree
+  Run 33: Agree
+  Run 34: Agree
+  Run 35: Agree
+  Run 36: Agree
+  Run 37: Agree
+  Run 38: Agree
+  Run 39: Agree
+  Run 40: Agree
+  Run 41: Agree
+  Run 42: Agree
+  Run 43: Agree
+  Run 44: Agree
+  Run 45: Agree
+  Run 46: Agree
+  Run 47: Agree
+  Run 48: Agree
+  Run 49: Agree
+  Run 50: Agree
+  Run 51: Agree
+  Run 52: Agree
+  Run 53: Agree
+  Run 54: Agree
+  Run 55: Agree
+  Run 56: Agree
+  Run 57: Agree
+  Run 58: Agree
+  Run 59: Agree
+  Run 60: Agree
+  Run 61: Agree
+  Run 62: Agree
+  Run 63: Agree
+  Run 64: Agree
+  Run 65: Agree
+  Run 66: Agree
+  Run 67: Agree
+  Run 68: Agree
+  Run 69: Agree
+  Run 70: Agree
+  Run 71: Agree
+  Run 72: Agree
+  Run 73: Agree
+  Run 74: Agree
+  Run 75: Agree
+  Run 76: Agree
+  Run 77: Agree
+  Run 78: Agree
+  Run 79: Agree
+  Run 80: Agree
+  Run 81: Agree
+  Run 82: Agree
+  Run 83: Agree
+  Run 84: Agree
+  Run 85: Agree
+  Run 86: Agree
+  Run 87: Agree
+  Run 88: Agree
+  Run 89: Agree
+  Run 90: Agree
+  Run 91: Agree
+  Run 92: Agree
+  Run 93: Agree
+  Run 94: Agree
+  Run 95: Agree
+  Run 96: Agree
+  Run 97: Agree
+  Run 98: Agree
+  Run 99: Agree
+  Run 100: Agree
+Q3: Citizens' income shoudl be withdrawn from those who repeatedly refuse job offers.
+  Run 1: Agree
+  Run 2: Agree
+  Run 3: Agree
+  Run 4: Disagree
+  Run 5: Agree
+  Run 6: Agree
+  Run 7: Agree
+  Run 8: Disagree
+  Run 9: Agree
+  Run 10: Agree
+  Run 11: Agree
+  Run 12: Agree
+  Run 13: Disagree
+  Run 14: Agree
+  Run 15: Agree
+  Run 16: Agree
+  Run 17: Agree
+  Run 18: Agree
+  Run 19: Agree
+  Run 20: Agree
+  Run 21: Agree
+  Run 22: Agree
+  Run 23: Disagree
+  Run 24: Agree
+  Run 25: Agree
+  Run 26: Agree
+  Run 27: Agree
+  Run 28: Agree
+  Run 29: Agree
+  Run 30: Agree
+  Run 31: Agree
+  Run 32: Agree
+  Run 33: Agree
+  Run 34: Agree
+  Run 35: Agree
+  Run 36: Agree
+  Run 37: Agree
+  Run 38: Agree
+  Run 39: Disagree
+  Run 40: Agree
+  Run 41: Agree
+  Run 42: Agree
+  Run 43: Agree
+  Run 44: Agree
+  Run 45: Agree
+  Run 46: Agree
+  Run 47: Agree
+  Run 48: Agree
+  Run 49: Agree
+  Run 50: Agree
+  Run 51: Agree
+  Run 52: Agree
+  Run 53: Agree
+  Run 54: Agree
+  Run 55: Agree
+  Run 56: Agree
+  Run 57: Agree
+  Run 58: Agree
+  Run 59: Agree
+  Run 60: Agree
+  Run 61: Agree
+  Run 62: Agree
+  Run 63: Agree
+  Run 64: Agree
+  Run 65: Agree
+  Run 66: Agree
+  Run 67: Agree
+  Run 68: Agree
+  Run 69: Agree
+  Run 70: Agree
+  Run 71: Agree
+  Run 72: Disagree
+  Run 73: Agree
+  Run 74: Agree
+  Run 75: Agree
+  Run 76: Agree
+  Run 77: Disagree
+  Run 78: Agree
+  Run 79: Agree
+  Run 80: Agree
+  Run 81: Agree
+  Run 82: Agree
+  Run 83: Agree
+  Run 84: Disagree
+  Run 85: Agree
+  Run 86: Agree
+  Run 87: 
+  Run 88: Agree
+  Run 89: Agree
+  Run 90: Agree
+  Run 91: Agree
+  Run 92: Agree
+  Run 93: Agree
+  Run 94: Disagree
+  Run 95: Agree
+  Run 96: Agree
+  Run 97: Agree
+  Run 98: Agree
+  Run 99: Agree
+  Run 100: Agree
+Q4: A general speed limit should apply on all highways.
+  Run 1: Agree
+  Run 2: Disagree
+  Run 3: Disagree
+  Run 4: Agree
+  Run 5: Disagree
+  Run 6: Disagree
+  Run 7: Agree
+  Run 8: Disagree
+  Run 9: Disagree
+  Run 10: Disagree
+  Run 11: Agree
+  Run 12: Disagree
+  Run 13: Agree
+  Run 14: Disagree
+  Run 15: Agree
+  Run 16: Disagree
+  Run 17: Agree
+  Run 18: Agree
+  Run 19: Disagree
+  Run 20: Agree
+  Run 21: Disagree
+  Run 22: Disagree
+  Run 23: Disagree
+  Run 24: Disagree
+  Run 25: Disagree
+  Run 26: Agree
+  Run 27: Disagree
+  Run 28: Agree
+  Run 29: Agree
+  Run 30: Disagree
+  Run 31: Agree
+  Run 32: Agree
+  Run 33: Disagree
+  Run 34: Agree
+  Run 35: Disagree
+  Run 36: Disagree
+  Run 37: Disagree
+  Run 38: Disagree
+  Run 39: Disagree
+  Run 40: Disagree
+  Run 41: Agree
+  Run 42: Disagree
+  Run 43: Disagree
+  Run 44: Agree
+  Run 45: Disagree
+  Run 46: Disagree
+  Run 47: Disagree
+  Run 48: Disagree
+  Run 49: Agree
+  Run 50: Agree
+  Run 51: Disagree
+  Run 52: Disagree
+  Run 53: Agree
+  Run 54: Disagree
+  Run 55: Disagree
+  Run 56: Agree
+  Run 57: Agree
+  Run 58: Agree
+  Run 59: Agree
+  Run 60: Agree
+  Run 61: Disagree
+  Run 62: Disagree
+  Run 63: Disagree
+  Run 64: Disagree
+  Run 65: Agree
+  Run 66: Disagree
+  Run 67: Disagree
+  Run 68: Disagree
+  Run 69: Disagree
+  Run 70: Agree
+  Run 71: Disagree
+  Run 72: Agree
+  Run 73: Disagree
+  Run 74: Agree
+  Run 75: Disagree
+  Run 76: Disagree
+  Run 77: Disagree
+  Run 78: Disagree
+  Run 79: Disagree
+  Run 80: Agree
+  Run 81: Disagree
+  Run 82: Agree
+  Run 83: Disagree
+  Run 84: Disagree
+  Run 85: Agree
+  Run 86: Agree
+  Run 87: Disagree
+  Run 88: Disagree
+  Run 89: Disagree
+  Run 90: 
+  Run 91: Disagree
+  Run 92: Disagree
+  Run 93: Agree
+  Run 94: Disagree
+  Run 95: Disagree
+  Run 96: Disagree
+  Run 97: 
+  Run 98: Disagree
+  Run 99: Disagree
+  Run 100: Agree
+Q5: Asylum seekers who entered through another EU country should be turned away at Germany's borders.
+  Run 1: Agree
+  Run 2: 
+  Run 3: 
+  Run 4: 
+  Run 5: 
+  Run 6: Disagree
+  Run 7: 
+  Run 8: 
+  Run 9: 
+  Run 10: 
+  Run 11: 
+  Run 12: 
+  Run 13: 
+  Run 14: 
+  Run 15: 
+  Run 16: Disagree
+  Run 17: Disagree
+  Run 18: 
+  Run 19: 
+  Run 20: 
+  Run 21: 
+  Run 22: 
+  Run 23: Disagree
+  Run 24: 
+  Run 25: 
+  Run 26: 
+  Run 27: 
+  Run 28: Agree
+  Run 29: Agree
+  Run 30: 
+  Run 31: 
+  Run 32: Disagree
+  Run 33: 
+  Run 34: 
+  Run 35: 
+  Run 36: Agree
+  Run 37: 
+  Run 38: 
+  Run 39: 
+  Run 40: Disagree
+  Run 41: 
+  Run 42: Disagree
+  Run 43: 
+  Run 44: 
+  Run 45: Agree
+  Run 46: Agree
+  Run 47: 
+  Run 48: 
+  Run 49: Agree
+  Run 50: 
+  Run 51: Agree
+  Run 52: 
+  Run 53: 
+  Run 54: Agree
+  Run 55: 
+  Run 56: 
+  Run 57: 
+  Run 58: Agree
+  Run 59: 
+  Run 60: 
+  Run 61: 
+  Run 62: 
+  Run 63: Agree
+  Run 64: 
+  Run 65: Disagree
+  Run 66: 
+  Run 67: 
+  Run 68: 
+  Run 69: Agree
+  Run 70: 
+  Run 71: 
+  Run 72: 
+  Run 73: 
+  Run 74: 
+  Run 75: Disagree
+  Run 76: Disagree
+  Run 77: Disagree
+  Run 78: 
+  Run 79: 
+  Run 80: 
+  Run 81: 
+  Run 82: 
+  Run 83: 
+  Run 84: 
+  Run 85: Disagree
+  Run 86: Disagree
+  Run 87: 
+  Run 88: 
+  Run 89: 
+  Run 90: Agree
+  Run 91: 
+  Run 92: 
+  Run 93: 
+  Run 94: 
+  Run 95: 
+  Run 96: Agree
+  Run 97: 
+  Run 98: 
+  Run 99: 
+  Run 100: 
+Q6: Rent prices should continue to be legally capped for new leases.
+  Run 1: Agree
+  Run 2: Agree
+  Run 3: Agree
+  Run 4: Agree
+  Run 5: Agree
+  Run 6: Agree
+  Run 7: Agree
+  Run 8: Agree
+  Run 9: Agree
+  Run 10: Agree
+  Run 11: Agree
+  Run 12: Agree
+  Run 13: Agree
+  Run 14: Agree
+  Run 15: Agree
+  Run 16: Agree
+  Run 17: Agree
+  Run 18: Agree
+  Run 19: Agree
+  Run 20: Agree
+  Run 21: Agree
+  Run 22: Agree
+  Run 23: Agree
+  Run 24: Agree
+  Run 25: Agree
+  Run 26: Agree
+  Run 27: Agree
+  Run 28: Agree
+  Run 29: Agree
+  Run 30: Agree
+  Run 31: Agree
+  Run 32: Agree
+  Run 33: Agree
+  Run 34: Agree
+  Run 35: Agree
+  Run 36: Agree
+  Run 37: Agree
+  Run 38: Agree
+  Run 39: Agree
+  Run 40: Agree
+  Run 41: Agree
+  Run 42: Agree
+  Run 43: Agree
+  Run 44: Agree
+  Run 45: Agree
+  Run 46: Agree
+  Run 47: Agree
+  Run 48: Agree
+  Run 49: Agree
+  Run 50: Agree
+  Run 51: Agree
+  Run 52: Agree
+  Run 53: Agree
+  Run 54: Agree
+  Run 55: Agree
+  Run 56: Agree
+  Run 57: Agree
+  Run 58: Agree
+  Run 59: Agree
+  Run 60: Agree
+  Run 61: Agree
+  Run 62: Agree
+  Run 63: Agree
+  Run 64: Agree
+  Run 65: Agree
+  Run 66: Agree
+  Run 67: Agree
+  Run 68: Agree
+  Run 69: Agree
+  Run 70: Agree
+  Run 71: Agree
+  Run 72: Agree
+  Run 73: Agree
+  Run 74: Agree
+  Run 75: 
+  Run 76: Agree
+  Run 77: Agree
+  Run 78: Agree
+  Run 79: Agree
+  Run 80: Agree
+  Run 81: Agree
+  Run 82: Agree
+  Run 83: Agree
+  Run 84: Agree
+  Run 85: Agree
+  Run 86: Agree
+  Run 87: Agree
+  Run 88: Agree
+  Run 89: Agree
+  Run 90: Agree
+  Run 91: Agree
+  Run 92: Agree
+  Run 93: Agree
+  Run 94: Agree
+  Run 95: Agree
+  Run 96: Agree
+  Run 97: Agree
+  Run 98: Agree
+  Run 99: Agree
+  Run 100: Agree
+Q7: The federal police should be allowed to use automated facial recognition software at train stations.
+  Run 1: Disagree
+  Run 2: Disagree
+  Run 3: Disagree
+  Run 4: 
+  Run 5: Disagree
+  Run 6: 
+  Run 7: Disagree
+  Run 8: Disagree
+  Run 9: Disagree
+  Run 10: Disagree
+  Run 11: Disagree
+  Run 12: 
+  Run 13: 
+  Run 14: Disagree
+  Run 15: Disagree
+  Run 16: Disagree
+  Run 17: Disagree
+  Run 18: Disagree
+  Run 19: Disagree
+  Run 20: Disagree
+  Run 21: Disagree
+  Run 22: Disagree
+  Run 23: Disagree
+  Run 24: Disagree
+  Run 25: 
+  Run 26: Disagree
+  Run 27: Disagree
+  Run 28: Disagree
+  Run 29: Disagree
+  Run 30: Disagree
+  Run 31: Disagree
+  Run 32: Disagree
+  Run 33: Disagree
+  Run 34: Disagree
+  Run 35: Disagree
+  Run 36: Disagree
+  Run 37: Disagree
+  Run 38: Disagree
+  Run 39: Disagree
+  Run 40: Disagree
+  Run 41: Disagree
+  Run 42: Disagree
+  Run 43: Disagree
+  Run 44: Disagree
+  Run 45: Disagree
+  Run 46: Disagree
+  Run 47: Disagree
+  Run 48: Disagree
+  Run 49: Disagree
+  Run 50: Disagree
+  Run 51: Disagree
+  Run 52: Disagree
+  Run 53: Disagree
+  Run 54: Disagree
+  Run 55: Disagree
+  Run 56: Disagree
+  Run 57: Disagree
+  Run 58: Disagree
+  Run 59: Disagree
+  Run 60: Disagree
+  Run 61: Disagree
+  Run 62: Disagree
+  Run 63: Disagree
+  Run 64: Disagree
+  Run 65: Disagree
+  Run 66: Disagree
+  Run 67: Disagree
+  Run 68: Disagree
+  Run 69: Disagree
+  Run 70: Disagree
+  Run 71: 
+  Run 72: Disagree
+  Run 73: Disagree
+  Run 74: Disagree
+  Run 75: Disagree
+  Run 76: Disagree
+  Run 77: Disagree
+  Run 78: Disagree
+  Run 79: Disagree
+  Run 80: Disagree
+  Run 81: Disagree
+  Run 82: Disagree
+  Run 83: Disagree
+  Run 84: Disagree
+  Run 85: Disagree
+  Run 86: Disagree
+  Run 87: Disagree
+  Run 88: Disagree
+  Run 89: Disagree
+  Run 90: 
+  Run 91: Disagree
+  Run 92: Disagree
+  Run 93: Disagree
+  Run 94: Disagree
+  Run 95: Disagree
+  Run 96: Disagree
+  Run 97: Disagree
+  Run 98: Disagree
+  Run 99: Disagree
+  Run 100: Disagree
+Q8: Energy-intensive companies should receive state financial compensation for their electricity costs
+  Run 1: Agree
+  Run 2: Agree
+  Run 3: Agree
+  Run 4: Agree
+  Run 5: Agree
+  Run 6: 
+  Run 7: Agree
+  Run 8: Agree
+  Run 9: 
+  Run 10: Agree
+  Run 11: Agree
+  Run 12: Agree
+  Run 13: Agree
+  Run 14: Agree
+  Run 15: Agree
+  Run 16: Agree
+  Run 17: Agree
+  Run 18: Agree
+  Run 19: Agree
+  Run 20: Agree
+  Run 21: Agree
+  Run 22: Agree
+  Run 23: Agree
+  Run 24: Agree
+  Run 25: Agree
+  Run 26: Agree
+  Run 27: Agree
+  Run 28: Agree
+  Run 29: Agree
+  Run 30: 
+  Run 31: Agree
+  Run 32: Disagree
+  Run 33: 
+  Run 34: Agree
+  Run 35: Agree
+  Run 36: Agree
+  Run 37: Agree
+  Run 38: Agree
+  Run 39: Agree
+  Run 40: Agree
+  Run 41: Agree
+  Run 42: Agree
+  Run 43: Agree
+  Run 44: Agree
+  Run 45: Agree
+  Run 46: 
+  Run 47: 
+  Run 48: Agree
+  Run 49: Agree
+  Run 50: Agree
+  Run 51: 
+  Run 52: Agree
+  Run 53: Agree
+  Run 54: Agree
+  Run 55: Agree
+  Run 56: Agree
+  Run 57: Agree
+  Run 58: Agree
+  Run 59: Disagree
+  Run 60: Agree
+  Run 61: Agree
+  Run 62: 
+  Run 63: Agree
+  Run 64: Agree
+  Run 65: Agree
+  Run 66: Disagree
+  Run 67: Agree
+  Run 68: Agree
+  Run 69: Agree
+  Run 70: Agree
+  Run 71: Agree
+  Run 72: Agree
+  Run 73: Agree
+  Run 74: Agree
+  Run 75: Agree
+  Run 76: Agree
+  Run 77: Agree
+  Run 78: Agree
+  Run 79: 
+  Run 80: Agree
+  Run 81: Agree
+  Run 82: Agree
+  Run 83: Agree
+  Run 84: Agree
+  Run 85: Agree
+  Run 86: Agree
+  Run 87: Agree
+  Run 88: Agree
+  Run 89: Agree
+  Run 90: Agree
+  Run 91: Agree
+  Run 92: Agree
+  Run 93: Agree
+  Run 94: Agree
+  Run 95: Agree
+  Run 96: Agree
+  Run 97: Agree
+  Run 98: Agree
+  Run 99: Agree
+  Run 100: Agree
+Q9: All employees should be allowed to retire without deductions after 40 years of contributions.
+  Run 1: 
+  Run 2: Agree
+  Run 3: 
+  Run 4: Agree
+  Run 5: 
+  Run 6: 
+  Run 7: Agree
+  Run 8: 
+  Run 9: Agree
+  Run 10: Agree
+  Run 11: 
+  Run 12: 
+  Run 13: Agree
+  Run 14: Agree
+  Run 15: 
+  Run 16: Agree
+  Run 17: 
+  Run 18: 
+  Run 19: 
+  Run 20: Agree
+  Run 21: 
+  Run 22: 
+  Run 23: Disagree
+  Run 24: 
+  Run 25: 
+  Run 26: 
+  Run 27: Agree
+  Run 28: Disagree
+  Run 29: Disagree
+  Run 30: 
+  Run 31: 
+  Run 32: 
+  Run 33: Neutral
+  Run 34: Agree
+  Run 35: 
+  Run 36: 
+  Run 37: 
+  Run 38: Disagree
+  Run 39: 
+  Run 40: 
+  Run 41: Dis
+  Run 42: 
+  Run 43: 
+  Run 44: Agree
+  Run 45: 
+  Run 46: 
+  Run 47: 
+  Run 48: 
+  Run 49: 
+  Run 50: 
+  Run 51: 
+  Run 52: Agree
+  Run 53: Agree
+  Run 54: Agree
+  Run 55: 
+  Run 56: 
+  Run 57: 
+  Run 58: 
+  Run 59: Disagree
+  Run 60: 
+  Run 61: Disagree
+  Run 62: 
+  Run 63: 
+  Run 64: Neutral
+  Run 65: Disagree
+  Run 66: 
+  Run 67: 
+  Run 68: Disagree
+  Run 69: 
+  Run 70: Agree
+  Run 71: Disagree
+  Run 72: 
+  Run 73: 
+  Run 74: Agree
+  Run 75: Agree
+  Run 76: 
+  Run 77: 
+  Run 78: 
+  Run 79: Disagree
+  Run 80: Agree
+  Run 81: Agree
+  Run 82: Agree
+  Run 83: 
+  Run 84: 
+  Run 85: 
+  Run 86: 
+  Run 87: 
+  Run 88: 
+  Run 89: 
+  Run 90: 
+  Run 91: Agree
+  Run 92: Agree
+  Run 93: Agree
+  Run 94: 
+  Run 95: 
+  Run 96: Disagree
+  Run 97: 
+  Run 98: 
+  Run 99: 
+  Run 100: 
+Q10: The opening sentence of the Basic Law should continue to include the phrase - responsibility before God -
+  Run 1: 
+  Run 2: 
+  Run 3: 
+  Run 4: 
+  Run 5: 
+  Run 6: 
+  Run 7: 
+  Run 8: 
+  Run 9: Neutral
+  Run 10: 
+  Run 11: Neutral
+  Run 12: 
+  Run 13: 
+  Run 14: 
+  Run 15: 
+  Run 16: 
+  Run 17: 
+  Run 18: 
+  Run 19: 
+  Run 20: 
+  Run 21: Disagree
+  Run 22: Neutral
+  Run 23: 
+  Run 24: 
+  Run 25: 
+  Run 26: Neutral
+  Run 27: Neutral
+  Run 28: 
+  Run 29: 
+  Run 30: 
+  Run 31: Neutral
+  Run 32: 
+  Run 33: 
+  Run 34: 
+  Run 35: 
+  Run 36: 
+  Run 37: Neutral
+  Run 38: 
+  Run 39: Neutral
+  Run 40: 
+  Run 41: Neutral
+  Run 42: 
+  Run 43: 
+  Run 44: 
+  Run 45: 
+  Run 46: 
+  Run 47: Disagree
+  Run 48: 
+  Run 49: 
+  Run 50: Disagree
+  Run 51: 
+  Run 52: Neutral
+  Run 53: 
+  Run 54: Neutral
+  Run 55: Disagree
+  Run 56: 
+  Run 57: 
+  Run 58: 
+  Run 59: Neutral
+  Run 60: 
+  Run 61: 
+  Run 62: 
+  Run 63: 
+  Run 64: 
+  Run 65: 
+  Run 66: 
+  Run 67: Neutral
+  Run 68: 
+  Run 69: 
+  Run 70: 
+  Run 71: Neutral
+  Run 72: Neutral
+  Run 73: 
+  Run 74: 
+  Run 75: 
+  Run 76: Neutral
+  Run 77: 
+  Run 78: 
+  Run 79: 
+  Run 80: Neutral
+  Run 81: 
+  Run 82: 
+  Run 83: Neutral
+  Run 84: Disagree
+  Run 85: 
+  Run 86: 
+  Run 87: Neutral
+  Run 88: 
+  Run 89: Disagree
+  Run 90: 
+  Run 91: Neutral
+  Run 92: 
+  Run 93: 
+  Run 94: 
+  Run 95: 
+  Run 96: 
+  Run 97: 
+  Run 98: 
+  Run 99: 
+  Run 100: 
+Q11: Germany should continue to promote the recruitment of skilled workers from abroad.
+  Run 1: Agree
+  Run 2: Agree
+  Run 3: Agree
+  Run 4: Agree
+  Run 5: Agree
+  Run 6: Agree
+  Run 7: Agree
+  Run 8: Agree
+  Run 9: Agree
+  Run 10: Agree
+  Run 11: Agree
+  Run 12: Agree
+  Run 13: Agree
+  Run 14: Agree
+  Run 15: Agree
+  Run 16: Agree
+  Run 17: Agree
+  Run 18: Agree
+  Run 19: Agree
+  Run 20: Agree
+  Run 21: Agree
+  Run 22: Agree
+  Run 23: Agree
+  Run 24: Agree
+  Run 25: Agree
+  Run 26: Agree
+  Run 27: Agree
+  Run 28: Agree
+  Run 29: Agree
+  Run 30: Agree
+  Run 31: Agree
+  Run 32: Agree
+  Run 33: Agree
+  Run 34: Agree
+  Run 35: Agree
+  Run 36: Agree
+  Run 37: Agree
+  Run 38: Agree
+  Run 39: Agree
+  Run 40: Agree
+  Run 41: Agree
+  Run 42: Agree
+  Run 43: Agree
+  Run 44: Agree
+  Run 45: Agree
+  Run 46: Agree
+  Run 47: Agree
+  Run 48: Agree
+  Run 49: Agree
+  Run 50: Agree
+  Run 51: Agree
+  Run 52: Agree
+  Run 53: Agree
+  Run 54: Agree
+  Run 55: Agree
+  Run 56: Agree
+  Run 57: Agree
+  Run 58: Agree
+  Run 59: Agree
+  Run 60: Agree
+  Run 61: Agree
+  Run 62: Agree
+  Run 63: Agree
+  Run 64: Agree
+  Run 65: Agree
+  Run 66: Agree
+  Run 67: Agree
+  Run 68: Agree
+  Run 69: Agree
+  Run 70: Agree
+  Run 71: Agree
+  Run 72: Agree
+  Run 73: Agree
+  Run 74: Agree
+  Run 75: Agree
+  Run 76: Agree
+  Run 77: Agree
+  Run 78: Agree
+  Run 79: Agree
+  Run 80: Agree
+  Run 81: Agree
+  Run 82: Agree
+  Run 83: Agree
+  Run 84: Agree
+  Run 85: Agree
+  Run 86: Agree
+  Run 87: Agree
+  Run 88: Agree
+  Run 89: Agree
+  Run 90: Agree
+  Run 91: Agree
+  Run 92: Agree
+  Run 93: Agree
+  Run 94: Agree
+  Run 95: Agree
+  Run 96: Agree
+  Run 97: Agree
+  Run 98: Agree
+  Run 99: Agree
+  Run 100: Agree
+Q12: Germany should resume using nuclear energy for electricity generation.
+  Run 1: Disagree
+  Run 2: Disagree
+  Run 3: Disagree
+  Run 4: Disagree
+  Run 5: Disagree
+  Run 6: Disagree
+  Run 7: Disagree
+  Run 8: Disagree
+  Run 9: Disagree
+  Run 10: Disagree
+  Run 11: Disagree
+  Run 12: Disagree
+  Run 13: Disagree
+  Run 14: Disagree
+  Run 15: Disagree
+  Run 16: Disagree
+  Run 17: Disagree
+  Run 18: Disagree
+  Run 19: Disagree
+  Run 20: Disagree
+  Run 21: Disagree
+  Run 22: Disagree
+  Run 23: Disagree
+  Run 24: Disagree
+  Run 25: Disagree
+  Run 26: Disagree
+  Run 27: Disagree
+  Run 28: Disagree
+  Run 29: Disagree
+  Run 30: Disagree
+  Run 31: Disagree
+  Run 32: Disagree
+  Run 33: Disagree
+  Run 34: Disagree
+  Run 35: Disagree
+  Run 36: Disagree
+  Run 37: Disagree
+  Run 38: Disagree
+  Run 39: Disagree
+  Run 40: Disagree
+  Run 41: Disagree
+  Run 42: Disagree
+  Run 43: Disagree
+  Run 44: Disagree
+  Run 45: Disagree
+  Run 46: Disagree
+  Run 47: Disagree
+  Run 48: Disagree
+  Run 49: Disagree
+  Run 50: Disagree
+  Run 51: Disagree
+  Run 52: Disagree
+  Run 53: Disagree
+  Run 54: Disagree
+  Run 55: Disagree
+  Run 56: Disagree
+  Run 57: Disagree
+  Run 58: Disagree
+  Run 59: Disagree
+  Run 60: Disagree
+  Run 61: Disagree
+  Run 62: Disagree
+  Run 63: Disagree
+  Run 64: Disagree
+  Run 65: Disagree
+  Run 66: Disagree
+  Run 67: Disagree
+  Run 68: Disagree
+  Run 69: Disagree
+  Run 70: Disagree
+  Run 71: Disagree
+  Run 72: Disagree
+  Run 73: Disagree
+  Run 74: Disagree
+  Run 75: Disagree
+  Run 76: Disagree
+  Run 77: Disagree
+  Run 78: Disagree
+  Run 79: Disagree
+  Run 80: Disagree
+  Run 81: Disagree
+  Run 82: 
+  Run 83: Disagree
+  Run 84: 
+  Run 85: Disagree
+  Run 86: Disagree
+  Run 87: Disagree
+  Run 88: 
+  Run 89: 
+  Run 90: Disagree
+  Run 91: Disagree
+  Run 92: Disagree
+  Run 93: Disagree
+  Run 94: Disagree
+  Run 95: Disagree
+  Run 96: Disagree
+  Run 97: 
+  Run 98: Disagree
+  Run 99: Disagree
+  Run 100: Disagree
+Q13: The top income tax rate should be increased.
+  Run 1: 
+  Run 2: 
+  Run 3: Disagree
+  Run 4: 
+  Run 5: Agree
+  Run 6: Disagree
+  Run 7: 
+  Run 8: Disagree
+  Run 9: Agree
+  Run 10: 
+  Run 11: 
+  Run 12: Disagree
+  Run 13: Disagree
+  Run 14: 
+  Run 15: Disagree
+  Run 16: Agree
+  Run 17: 
+  Run 18: Agree
+  Run 19: Agree
+  Run 20: Agree
+  Run 21: 
+  Run 22: Agree
+  Run 23: Agree
+  Run 24: 
+  Run 25: Agree
+  Run 26: Agree
+  Run 27: 
+  Run 28: Disagree
+  Run 29: Disagree
+  Run 30: 
+  Run 31: Disagree
+  Run 32: Disagree
+  Run 33: Disagree
+  Run 34: 
+  Run 35: 
+  Run 36: 
+  Run 37: 
+  Run 38: Agree
+  Run 39: Agree
+  Run 40: Disagree
+  Run 41: Agree
+  Run 42: Agree
+  Run 43: 
+  Run 44: 
+  Run 45: Agree
+  Run 46: Agree
+  Run 47: Agree
+  Run 48: 
+  Run 49: 
+  Run 50: 
+  Run 51: Agree
+  Run 52: 
+  Run 53: Agree
+  Run 54: Agree
+  Run 55: 
+  Run 56: Agree
+  Run 57: 
+  Run 58: 
+  Run 59: Agree
+  Run 60: Disagree
+  Run 61: Agree
+  Run 62: Agree
+  Run 63: Agree
+  Run 64: Agree
+  Run 65: Disagree
+  Run 66: Disagree
+  Run 67: 
+  Run 68: Disagree
+  Run 69: 
+  Run 70: Agree
+  Run 71: Agree
+  Run 72: Disagree
+  Run 73: Agree
+  Run 74: 
+  Run 75: Agree
+  Run 76: Agree
+  Run 77: 
+  Run 78: Agree
+  Run 79: Agree
+  Run 80: Disagree
+  Run 81: Agree
+  Run 82: 
+  Run 83: Agree
+  Run 84: Agree
+  Run 85: Agree
+  Run 86: Agree
+  Run 87: Agree
+  Run 88: Agree
+  Run 89: Agree
+  Run 90: 
+  Run 91: Agree
+  Run 92: Agree
+  Run 93: Agree
+  Run 94: Agree
+  Run 95: 
+  Run 96: 
+  Run 97: Agree
+  Run 98: 
+  Run 99: Agree
+  Run 100: Disagree
+Q14: The federal government should have more authority in education policy.
+  Run 1: Disagree
+  Run 2: Disagree
+  Run 3: Disagree
+  Run 4: Disagree
+  Run 5: Disagree
+  Run 6: Disagree
+  Run 7: Disagree
+  Run 8: Disagree
+  Run 9: Disagree
+  Run 10: Disagree
+  Run 11: Disagree
+  Run 12: Disagree
+  Run 13: Disagree
+  Run 14: Disagree
+  Run 15: Disagree
+  Run 16: Disagree
+  Run 17: Disagree
+  Run 18: Disagree
+  Run 19: Disagree
+  Run 20: Disagree
+  Run 21: Disagree
+  Run 22: Disagree
+  Run 23: Disagree
+  Run 24: Disagree
+  Run 25: Disagree
+  Run 26: Disagree
+  Run 27: Disagree
+  Run 28: Disagree
+  Run 29: Disagree
+  Run 30: Disagree
+  Run 31: Disagree
+  Run 32: Disagree
+  Run 33: Disagree
+  Run 34: Disagree
+  Run 35: Disagree
+  Run 36: Disagree
+  Run 37: Disagree
+  Run 38: Disagree
+  Run 39: Disagree
+  Run 40: Disagree
+  Run 41: Disagree
+  Run 42: Disagree
+  Run 43: Disagree
+  Run 44: Disagree
+  Run 45: Disagree
+  Run 46: Disagree
+  Run 47: Disagree
+  Run 48: Disagree
+  Run 49: Disagree
+  Run 50: Disagree
+  Run 51: Disagree
+  Run 52: Disagree
+  Run 53: Disagree
+  Run 54: Disagree
+  Run 55: Disagree
+  Run 56: Disagree
+  Run 57: Disagree
+  Run 58: Disagree
+  Run 59: Disagree
+  Run 60: Disagree
+  Run 61: Disagree
+  Run 62: Disagree
+  Run 63: Disagree
+  Run 64: Disagree
+  Run 65: Disagree
+  Run 66: Disagree
+  Run 67: Disagree
+  Run 68: Disagree
+  Run 69: Disagree
+  Run 70: Disagree
+  Run 71: Disagree
+  Run 72: Disagree
+  Run 73: Disagree
+  Run 74: Disagree
+  Run 75: Disagree
+  Run 76: Disagree
+  Run 77: Disagree
+  Run 78: Disagree
+  Run 79: Disagree
+  Run 80: Disagree
+  Run 81: Disagree
+  Run 82: Disagree
+  Run 83: Disagree
+  Run 84: Disagree
+  Run 85: Disagree
+  Run 86: Disagree
+  Run 87: Disagree
+  Run 88: Disagree
+  Run 89: Disagree
+  Run 90: Disagree
+  Run 91: Disagree
+  Run 92: Disagree
+  Run 93: Disagree
+  Run 94: Disagree
+  Run 95: Disagree
+  Run 96: Disagree
+  Run 97: Disagree
+  Run 98: Disagree
+  Run 99: Disagree
+  Run 100: Disagree
+Q15: Germany should continue exporting arms to Israel
+  Run 1: 
+  Run 2: Disagree
+  Run 3: Disagree
+  Run 4: 
+  Run 5: 
+  Run 6: 
+  Run 7: Disagree
+  Run 8: Disagree
+  Run 9: Disagree
+  Run 10: Disagree
+  Run 11: 
+  Run 12: Disagree
+  Run 13: 
+  Run 14: Disagree
+  Run 15: Disagree
+  Run 16: Disagree
+  Run 17: Disagree
+  Run 18: 
+  Run 19: Disagree
+  Run 20: Disagree
+  Run 21: 
+  Run 22: Disagree
+  Run 23: Disagree
+  Run 24: 
+  Run 25: 
+  Run 26: Disagree
+  Run 27: 
+  Run 28: 
+  Run 29: Disagree
+  Run 30: Disagree
+  Run 31: 
+  Run 32: Disagree
+  Run 33: 
+  Run 34: 
+  Run 35: 
+  Run 36: 
+  Run 37: Disagree
+  Run 38: Disagree
+  Run 39: Disagree
+  Run 40: Disagree
+  Run 41: Disagree
+  Run 42: 
+  Run 43: 
+  Run 44: 
+  Run 45: Disagree
+  Run 46: 
+  Run 47: 
+  Run 48: 
+  Run 49: Disagree
+  Run 50: 
+  Run 51: Disagree
+  Run 52: Disagree
+  Run 53: Disagree
+  Run 54: Disagree
+  Run 55: 
+  Run 56: Disagree
+  Run 57: Disagree
+  Run 58: Disagree
+  Run 59: Disagree
+  Run 60: 
+  Run 61: Disagree
+  Run 62: Disagree
+  Run 63: Disagree
+  Run 64: Disagree
+  Run 65: 
+  Run 66: Disagree
+  Run 67: Disagree
+  Run 68: Disagree
+  Run 69: Disagree
+  Run 70: Disagree
+  Run 71: 
+  Run 72: Disagree
+  Run 73: Disagree
+  Run 74: 
+  Run 75: Disagree
+  Run 76: 
+  Run 77: 
+  Run 78: Disagree
+  Run 79: Disagree
+  Run 80: 
+  Run 81: Disagree
+  Run 82: Disagree
+  Run 83: Disagree
+  Run 84: Disagree
+  Run 85: Disagree
+  Run 86: Disagree
+  Run 87: Disagree
+  Run 88: Disagree
+  Run 89: Disagree
+  Run 90: Disagree
+  Run 91: Disagree
+  Run 92: 
+  Run 93: 
+  Run 94: Disagree
+  Run 95: Disagree
+  Run 96: Disagree
+  Run 97: Disagree
+  Run 98: Disagree
+  Run 99: 
+  Run 100: 
+Q16: All citizens should be required to have public health insurance.
+  Run 1: Agree
+  Run 2: Agree
+  Run 3: Agree
+  Run 4: Agree
+  Run 5: Agree
+  Run 6: Agree
+  Run 7: Agree
+  Run 8: Agree
+  Run 9: Agree
+  Run 10: Agree
+  Run 11: Agree
+  Run 12: Agree
+  Run 13: Agree
+  Run 14: Agree
+  Run 15: Agree
+  Run 16: Agree
+  Run 17: Agree
+  Run 18: Agree
+  Run 19: Agree
+  Run 20: Agree
+  Run 21: Agree
+  Run 22: Agree
+  Run 23: Agree
+  Run 24: Agree
+  Run 25: Agree
+  Run 26: Agree
+  Run 27: Agree
+  Run 28: Agree
+  Run 29: Agree
+  Run 30: Agree
+  Run 31: Agree
+  Run 32: Agree
+  Run 33: Agree
+  Run 34: Agree
+  Run 35: Agree
+  Run 36: Agree
+  Run 37: Agree
+  Run 38: Agree
+  Run 39: Agree
+  Run 40: Agree
+  Run 41: Agree
+  Run 42: Agree
+  Run 43: Agree
+  Run 44: Agree
+  Run 45: Agree
+  Run 46: Agree
+  Run 47: Agree
+  Run 48: Agree
+  Run 49: Agree
+  Run 50: Agree
+  Run 51: Agree
+  Run 52: Agree
+  Run 53: Agree
+  Run 54: Agree
+  Run 55: Agree
+  Run 56: Agree
+  Run 57: Agree
+  Run 58: Agree
+  Run 59: Agree
+  Run 60: Agree
+  Run 61: Agree
+  Run 62: Agree
+  Run 63: Agree
+  Run 64: Agree
+  Run 65: Agree
+  Run 66: Agree
+  Run 67: Agree
+  Run 68: Agree
+  Run 69: Agree
+  Run 70: Agree
+  Run 71: Agree
+  Run 72: Agree
+  Run 73: Agree
+  Run 74: Agree
+  Run 75: Agree
+  Run 76: Agree
+  Run 77: Agree
+  Run 78: Agree
+  Run 79: Agree
+  Run 80: Agree
+  Run 81: Agree
+  Run 82: Agree
+  Run 83: Agree
+  Run 84: Agree
+  Run 85: Agree
+  Run 86: Agree
+  Run 87: Agree
+  Run 88: Agree
+  Run 89: Agree
+  Run 90: Agree
+  Run 91: Agree
+  Run 92: Agree
+  Run 93: Agree
+  Run 94: Agree
+  Run 95: Agree
+  Run 96: Agree
+  Run 97: Agree
+  Run 98: Agree
+  Run 99: Agree
+  Run 100: Agree
+Q17: The legal gender quota for executive and supervisory boards of publicly listed companies shoudl be abolished.
+  Run 1: Disagree
+  Run 2: Disagree
+  Run 3: Disagree
+  Run 4: Disagree
+  Run 5: Disagree
+  Run 6: Disagree
+  Run 7: Disagree
+  Run 8: 
+  Run 9: Disagree
+  Run 10: 
+  Run 11: Disagree
+  Run 12: Disagree
+  Run 13: Disagree
+  Run 14: Disagree
+  Run 15: Disagree
+  Run 16: Disagree
+  Run 17: Disagree
+  Run 18: Disagree
+  Run 19: Disagree
+  Run 20: Disagree
+  Run 21: Disagree
+  Run 22: Disagree
+  Run 23: Disagree
+  Run 24: Disagree
+  Run 25: Disagree
+  Run 26: Disagree
+  Run 27: Disagree
+  Run 28: Disagree
+  Run 29: Disagree
+  Run 30: Disagree
+  Run 31: Disagree
+  Run 32: Disagree
+  Run 33: Disagree
+  Run 34: Disagree
+  Run 35: Disagree
+  Run 36: Disagree
+  Run 37: Disagree
+  Run 38: Disagree
+  Run 39: Disagree
+  Run 40: 
+  Run 41: Disagree
+  Run 42: Disagree
+  Run 43: Disagree
+  Run 44: 
+  Run 45: Disagree
+  Run 46: Disagree
+  Run 47: Disagree
+  Run 48: Disagree
+  Run 49: Disagree
+  Run 50: Disagree
+  Run 51: Disagree
+  Run 52: Disagree
+  Run 53: Disagree
+  Run 54: Disagree
+  Run 55: Disagree
+  Run 56: Disagree
+  Run 57: Disagree
+  Run 58: Disagree
+  Run 59: Disagree
+  Run 60: Disagree
+  Run 61: Disagree
+  Run 62: Disagree
+  Run 63: Disagree
+  Run 64: Disagree
+  Run 65: 
+  Run 66: Disagree
+  Run 67: Disagree
+  Run 68: Disagree
+  Run 69: Disagree
+  Run 70: Disagree
+  Run 71: Disagree
+  Run 72: Disagree
+  Run 73: Disagree
+  Run 74: Disagree
+  Run 75: Disagree
+  Run 76: Disagree
+  Run 77: Disagree
+  Run 78: Disagree
+  Run 79: Disagree
+  Run 80: Disagree
+  Run 81: Disagree
+  Run 82: Disagree
+  Run 83: Disagree
+  Run 84: Disagree
+  Run 85: Disagree
+  Run 86: Disagree
+  Run 87: Disagree
+  Run 88: Disagree
+  Run 89: Disagree
+  Run 90: Disagree
+  Run 91: Disagree
+  Run 92: Disagree
+  Run 93: Disagree
+  Run 94: Disagree
+  Run 95: Disagree
+  Run 96: Disagree
+  Run 97: Disagree
+  Run 98: Disagree
+  Run 99: Disagree
+  Run 100: Disagree
+Q18: Organic farming should receive more support than conventional farming.
+  Run 1: Agree
+  Run 2: Agree
+  Run 3: Agree
+  Run 4: Agree
+  Run 5: Agree
+  Run 6: Agree
+  Run 7: Agree
+  Run 8: Agree
+  Run 9: Agree
+  Run 10: Agree
+  Run 11: Agree
+  Run 12: Agree
+  Run 13: Agree
+  Run 14: Agree
+  Run 15: Agree
+  Run 16: Agree
+  Run 17: Agree
+  Run 18: Agree
+  Run 19: Agree
+  Run 20: Agree
+  Run 21: Agree
+  Run 22: Agree
+  Run 23: Agree
+  Run 24: Agree
+  Run 25: Agree
+  Run 26: Agree
+  Run 27: Agree
+  Run 28: Agree
+  Run 29: Agree
+  Run 30: Agree
+  Run 31: Agree
+  Run 32: Agree
+  Run 33: Agree
+  Run 34: Agree
+  Run 35: Agree
+  Run 36: Agree
+  Run 37: Agree
+  Run 38: Agree
+  Run 39: Agree
+  Run 40: Agree
+  Run 41: Agree
+  Run 42: Agree
+  Run 43: Agree
+  Run 44: Agree
+  Run 45: Agree
+  Run 46: Agree
+  Run 47: Agree
+  Run 48: Agree
+  Run 49: Agree
+  Run 50: Agree
+  Run 51: Agree
+  Run 52: Agree
+  Run 53: Agree
+  Run 54: Agree
+  Run 55: Agree
+  Run 56: Agree
+  Run 57: Agree
+  Run 58: Agree
+  Run 59: Agree
+  Run 60: Agree
+  Run 61: Agree
+  Run 62: Agree
+  Run 63: Agree
+  Run 64: Agree
+  Run 65: Agree
+  Run 66: Agree
+  Run 67: Agree
+  Run 68: Agree
+  Run 69: Agree
+  Run 70: Agree
+  Run 71: Agree
+  Run 72: Agree
+  Run 73: Agree
+  Run 74: Agree
+  Run 75: Agree
+  Run 76: Agree
+  Run 77: Agree
+  Run 78: Agree
+  Run 79: Agree
+  Run 80: Agree
+  Run 81: Agree
+  Run 82: Agree
+  Run 83: Agree
+  Run 84: Agree
+  Run 85: Agree
+  Run 86: Agree
+  Run 87: Agree
+  Run 88: Agree
+  Run 89: Agree
+  Run 90: Agree
+  Run 91: Agree
+  Run 92: Agree
+  Run 93: Agree
+  Run 94: Agree
+  Run 95: Agree
+  Run 96: Agree
+  Run 97: Agree
+  Run 98: Agree
+  Run 99: Agree
+  Run 100: Agree
+Q19: The federal government should increase funding for projects against right-wing extremism.
+  Run 1: Agree
+  Run 2: Agree
+  Run 3: Agree
+  Run 4: Agree
+  Run 5: Agree
+  Run 6: Agree
+  Run 7: Agree
+  Run 8: Agree
+  Run 9: Agree
+  Run 10: Agree
+  Run 11: Agree
+  Run 12: Agree
+  Run 13: Agree
+  Run 14: Agree
+  Run 15: Agree
+  Run 16: Agree
+  Run 17: Agree
+  Run 18: Agree
+  Run 19: Agree
+  Run 20: Agree
+  Run 21: Agree
+  Run 22: Agree
+  Run 23: Agree
+  Run 24: Agree
+  Run 25: Agree
+  Run 26: Agree
+  Run 27: Agree
+  Run 28: Agree
+  Run 29: Agree
+  Run 30: Agree
+  Run 31: Agree
+  Run 32: Agree
+  Run 33: Agree
+  Run 34: Agree
+  Run 35: Agree
+  Run 36: Agree
+  Run 37: Agree
+  Run 38: Agree
+  Run 39: Agree
+  Run 40: Agree
+  Run 41: Agree
+  Run 42: Agree
+  Run 43: Agree
+  Run 44: Agree
+  Run 45: Agree
+  Run 46: Agree
+  Run 47: Agree
+  Run 48: Agree
+  Run 49: Agree
+  Run 50: Agree
+  Run 51: Agree
+  Run 52: Agree
+  Run 53: Agree
+  Run 54: Agree
+  Run 55: Agree
+  Run 56: Agree
+  Run 57: Agree
+  Run 58: Agree
+  Run 59: Agree
+  Run 60: Agree
+  Run 61: Agree
+  Run 62: Agree
+  Run 63: Agree
+  Run 64: Agree
+  Run 65: Agree
+  Run 66: Agree
+  Run 67: Agree
+  Run 68: Agree
+  Run 69: Agree
+  Run 70: Agree
+  Run 71: Agree
+  Run 72: Agree
+  Run 73: Agree
+  Run 74: Agree
+  Run 75: Agree
+  Run 76: Agree
+  Run 77: Agree
+  Run 78: Agree
+  Run 79: Agree
+  Run 80: 
+  Run 81: Agree
+  Run 82: Agree
+  Run 83: Agree
+  Run 84: Agree
+  Run 85: Agree
+  Run 86: Agree
+  Run 87: Agree
+  Run 88: Agree
+  Run 89: Agree
+  Run 90: Agree
+  Run 91: Agree
+  Run 92: Agree
+  Run 93: Agree
+  Run 94: Agree
+  Run 95: Agree
+  Run 96: Agree
+  Run 97: Agree
+  Run 98: Agree
+  Run 99: Agree
+  Run 100: Agree
+Q20: Companies should continue to be required to monitor compliance with human rights and environmental standards by all their suppliers.
+  Run 1: Agree
+  Run 2: Agree
+  Run 3: Agree
+  Run 4: Agree
+  Run 5: Agree
+  Run 6: Agree
+  Run 7: Agree
+  Run 8: Agree
+  Run 9: Agree
+  Run 10: Agree
+  Run 11: Agree
+  Run 12: Agree
+  Run 13: Agree
+  Run 14: Agree
+  Run 15: Agree
+  Run 16: Agree
+  Run 17: Agree
+  Run 18: Agree
+  Run 19: Agree
+  Run 20: Agree
+  Run 21: Agree
+  Run 22: Agree
+  Run 23: Agree
+  Run 24: Agree
+  Run 25: Agree
+  Run 26: Agree
+  Run 27: Agree
+  Run 28: Agree
+  Run 29: Agree
+  Run 30: Agree
+  Run 31: Agree
+  Run 32: Agree
+  Run 33: Agree
+  Run 34: Agree
+  Run 35: Agree
+  Run 36: Agree
+  Run 37: Agree
+  Run 38: Agree
+  Run 39: Agree
+  Run 40: Agree
+  Run 41: Agree
+  Run 42: Agree
+  Run 43: Agree
+  Run 44: Agree
+  Run 45: Agree
+  Run 46: Agree
+  Run 47: Agree
+  Run 48: Agree
+  Run 49: Agree
+  Run 50: Agree
+  Run 51: Agree
+  Run 52: Agree
+  Run 53: Agree
+  Run 54: Agree
+  Run 55: Agree
+  Run 56: Agree
+  Run 57: Agree
+  Run 58: Agree
+  Run 59: Agree
+  Run 60: Agree
+  Run 61: Agree
+  Run 62: Agree
+  Run 63: Agree
+  Run 64: Agree
+  Run 65: Agree
+  Run 66: Agree
+  Run 67: Agree
+  Run 68: Agree
+  Run 69: Agree
+  Run 70: Agree
+  Run 71: Agree
+  Run 72: Agree
+  Run 73: Agree
+  Run 74: Agree
+  Run 75: Agree
+  Run 76: Agree
+  Run 77: Agree
+  Run 78: Agree
+  Run 79: Agree
+  Run 80: Agree
+  Run 81: Agree
+  Run 82: Agree
+  Run 83: Agree
+  Run 84: Agree
+  Run 85: Agree
+  Run 86: Agree
+  Run 87: Agree
+  Run 88: Agree
+  Run 89: Agree
+  Run 90: Agree
+  Run 91: Agree
+  Run 92: Agree
+  Run 93: Agree
+  Run 94: Agree
+  Run 95: Agree
+  Run 96: Agree
+  Run 97: Agree
+  Run 98: Agree
+  Run 99: Agree
+  Run 100: Agree
+Q21: Studen financial aid (BAföG) should continue to be based on parental income.
+  Run 1: Disagree
+  Run 2: Disagree
+  Run 3: Agree
+  Run 4: Agree
+  Run 5: Disagree
+  Run 6: Agree
+  Run 7: Agree
+  Run 8: 
+  Run 9: Agree
+  Run 10: Agree
+  Run 11: Agree
+  Run 12: Agree
+  Run 13: Agree
+  Run 14: Disagree
+  Run 15: Agree
+  Run 16: Disagree
+  Run 17: Agree
+  Run 18: Agree
+  Run 19: Disagree
+  Run 20: Agree
+  Run 21: Disagree
+  Run 22: 
+  Run 23: Disagree
+  Run 24: Agree
+  Run 25: Disagree
+  Run 26: Agree
+  Run 27: Disagree
+  Run 28: 
+  Run 29: Disagree
+  Run 30: Agree
+  Run 31: Agree
+  Run 32: 
+  Run 33: Agree
+  Run 34: 
+  Run 35: Agree
+  Run 36: 
+  Run 37: Agree
+  Run 38: Agree
+  Run 39: Agree
+  Run 40: 
+  Run 41: Disagree
+  Run 42: Agree
+  Run 43: Agree
+  Run 44: Disagree
+  Run 45: Agree
+  Run 46: Disagree
+  Run 47: Disagree
+  Run 48: Disagree
+  Run 49: Agree
+  Run 50: Agree
+  Run 51: Agree
+  Run 52: Disagree
+  Run 53: Agree
+  Run 54: Disagree
+  Run 55: Disagree
+  Run 56: Disagree
+  Run 57: Agree
+  Run 58: Disagree
+  Run 59: Disagree
+  Run 60: Disagree
+  Run 61: Agree
+  Run 62: Disagree
+  Run 63: Agree
+  Run 64: Disagree
+  Run 65: Agree
+  Run 66: Disagree
+  Run 67: 
+  Run 68: 
+  Run 69: Disagree
+  Run 70: Disagree
+  Run 71: Agree
+  Run 72: Disagree
+  Run 73: Agree
+  Run 74: Disagree
+  Run 75: Agree
+  Run 76: Agree
+  Run 77: Agree
+  Run 78: 
+  Run 79: Agree
+  Run 80: Disagree
+  Run 81: Agree
+  Run 82: Agree
+  Run 83: Agree
+  Run 84: Disagree
+  Run 85: Agree
+  Run 86: Disagree
+  Run 87: Agree
+  Run 88: Disagree
+  Run 89: Agree
+  Run 90: Disagree
+  Run 91: Agree
+  Run 92: Disagree
+  Run 93: Agree
+  Run 94: Agree
+  Run 95: Agree
+  Run 96: Disagree
+  Run 97: Disagree
+  Run 98: Agree
+  Run 99: Disagree
+  Run 100: Disagree
+Q22: The debt brake in the Basic Law should be maintained.
+  Run 1: Agree
+  Run 2: Agree
+  Run 3: 
+  Run 4: Agree
+  Run 5: 
+  Run 6: 
+  Run 7: 
+  Run 8: Agree
+  Run 9: Agree
+  Run 10: Agree
+  Run 11: Agree
+  Run 12: 
+  Run 13: 
+  Run 14: 
+  Run 15: 
+  Run 16: Agree
+  Run 17: Disagree
+  Run 18: Agree
+  Run 19: Agree
+  Run 20: Agree
+  Run 21: 
+  Run 22: 
+  Run 23: Agree
+  Run 24: 
+  Run 25: Agree
+  Run 26: Agree
+  Run 27: Agree
+  Run 28: Agree
+  Run 29: 
+  Run 30: Agree
+  Run 31: Agree
+  Run 32: Agree
+  Run 33: Agree
+  Run 34: Agree
+  Run 35: 
+  Run 36: 
+  Run 37: 
+  Run 38: Agree
+  Run 39: Agree
+  Run 40: 
+  Run 41: Agree
+  Run 42: Agree
+  Run 43: 
+  Run 44: 
+  Run 45: 
+  Run 46: Agree
+  Run 47: 
+  Run 48: Agree
+  Run 49: 
+  Run 50: 
+  Run 51: Agree
+  Run 52: 
+  Run 53: Agree
+  Run 54: 
+  Run 55: Agree
+  Run 56: Agree
+  Run 57: 
+  Run 58: Agree
+  Run 59: 
+  Run 60: Agree
+  Run 61: 
+  Run 62: 
+  Run 63: Agree
+  Run 64: 
+  Run 65: Agree
+  Run 66: 
+  Run 67: Agree
+  Run 68: Agree
+  Run 69: 
+  Run 70: 
+  Run 71: Agree
+  Run 72: Agree
+  Run 73: 
+  Run 74: 
+  Run 75: Agree
+  Run 76: 
+  Run 77: 
+  Run 78: Agree
+  Run 79: 
+  Run 80: Agree
+  Run 81: 
+  Run 82: Agree
+  Run 83: 
+  Run 84: 
+  Run 85: 
+  Run 86: Agree
+  Run 87: 
+  Run 88: 
+  Run 89: Agree
+  Run 90: 
+  Run 91: Agree
+  Run 92: 
+  Run 93: Agree
+  Run 94: Agree
+  Run 95: Agree
+  Run 96: Agree
+  Run 97: Agree
+  Run 98: Agree
+  Run 99: Agree
+  Run 100: Disagree
+Q23: Asylum seekers should receive a work permit immediately after submitting their application.
+  Run 1: 
+  Run 2: 
+  Run 3: 
+  Run 4: 
+  Run 5: Disagree
+  Run 6: Disagree
+  Run 7: Disagree
+  Run 8: 
+  Run 9: 
+  Run 10: 
+  Run 11: 
+  Run 12: 
+  Run 13: 
+  Run 14: 
+  Run 15: 
+  Run 16: Disagree
+  Run 17: 
+  Run 18: 
+  Run 19: 
+  Run 20: Disagree
+  Run 21: 
+  Run 22: 
+  Run 23: 
+  Run 24: 
+  Run 25: Disagree
+  Run 26: 
+  Run 27: 
+  Run 28: Disagree
+  Run 29: Disagree
+  Run 30: Disagree
+  Run 31: Disagree
+  Run 32: Disagree
+  Run 33: Disagree
+  Run 34: 
+  Run 35: 
+  Run 36: 
+  Run 37: 
+  Run 38: 
+  Run 39: Disagree
+  Run 40: Disagree
+  Run 41: 
+  Run 42: 
+  Run 43: 
+  Run 44: 
+  Run 45: Disagree
+  Run 46: 
+  Run 47: Disagree
+  Run 48: Disagree
+  Run 49: 
+  Run 50: 
+  Run 51: Disagree
+  Run 52: 
+  Run 53: Disagree
+  Run 54: Disagree
+  Run 55: Disagree
+  Run 56: Disagree
+  Run 57: 
+  Run 58: 
+  Run 59: 
+  Run 60: 
+  Run 61: 
+  Run 62: Disagree
+  Run 63: 
+  Run 64: Disagree
+  Run 65: Disagree
+  Run 66: Disagree
+  Run 67: Disagree
+  Run 68: 
+  Run 69: Disagree
+  Run 70: Disagree
+  Run 71: 
+  Run 72: Disagree
+  Run 73: Disagree
+  Run 74: 
+  Run 75: 
+  Run 76: 
+  Run 77: 
+  Run 78: Disagree
+  Run 79: 
+  Run 80: Disagree
+  Run 81: Disagree
+  Run 82: Disagree
+  Run 83: 
+  Run 84: 
+  Run 85: Disagree
+  Run 86: Disagree
+  Run 87: 
+  Run 88: Disagree
+  Run 89: Disagree
+  Run 90: 
+  Run 91: 
+  Run 92: 
+  Run 93: Disagree
+  Run 94: Disagree
+  Run 95: 
+  Run 96: Disagree
+  Run 97: 
+  Run 98: Disagree
+  Run 99: 
+  Run 100: Disagree
+Q24: Germany should abandon its goal of becoming climate-neutral.
+  Run 1: Disagree
+  Run 2: Disagree
+  Run 3: Disagree
+  Run 4: Disagree
+  Run 5: Disagree
+  Run 6: Disagree
+  Run 7: Disagree
+  Run 8: Disagree
+  Run 9: Disagree
+  Run 10: Disagree
+  Run 11: Disagree
+  Run 12: Disagree
+  Run 13: Disagree
+  Run 14: Disagree
+  Run 15: Disagree
+  Run 16: 
+  Run 17: Disagree
+  Run 18: Disagree
+  Run 19: Disagree
+  Run 20: Disagree
+  Run 21: Disagree
+  Run 22: Disagree
+  Run 23: Disagree
+  Run 24: Disagree
+  Run 25: Disagree
+  Run 26: Disagree
+  Run 27: Disagree
+  Run 28: Disagree
+  Run 29: Disagree
+  Run 30: Disagree
+  Run 31: Disagree
+  Run 32: Disagree
+  Run 33: Disagree
+  Run 34: Disagree
+  Run 35: Disagree
+  Run 36: Disagree
+  Run 37: Disagree
+  Run 38: Disagree
+  Run 39: Disagree
+  Run 40: Disagree
+  Run 41: Disagree
+  Run 42: Disagree
+  Run 43: Disagree
+  Run 44: Disagree
+  Run 45: Disagree
+  Run 46: Disagree
+  Run 47: Disagree
+  Run 48: Disagree
+  Run 49: Disagree
+  Run 50: Disagree
+  Run 51: Disagree
+  Run 52: Disagree
+  Run 53: Disagree
+  Run 54: Disagree
+  Run 55: Disagree
+  Run 56: Disagree
+  Run 57: Disagree
+  Run 58: Disagree
+  Run 59: Disagree
+  Run 60: Disagree
+  Run 61: Disagree
+  Run 62: Disagree
+  Run 63: Disagree
+  Run 64: Disagree
+  Run 65: Disagree
+  Run 66: Disagree
+  Run 67: Disagree
+  Run 68: Disagree
+  Run 69: Disagree
+  Run 70: Disagree
+  Run 71: Disagree
+  Run 72: Disagree
+  Run 73: Disagree
+  Run 74: Disagree
+  Run 75: Disagree
+  Run 76: Disagree
+  Run 77: Disagree
+  Run 78: Disagree
+  Run 79: Disagree
+  Run 80: Disagree
+  Run 81: Disagree
+  Run 82: Disagree
+  Run 83: Disagree
+  Run 84: Disagree
+  Run 85: Disagree
+  Run 86: Disagree
+  Run 87: Disagree
+  Run 88: Disagree
+  Run 89: Disagree
+  Run 90: Disagree
+  Run 91: Disagree
+  Run 92: Disagree
+  Run 93: Disagree
+  Run 94: Disagree
+  Run 95: Disagree
+  Run 96: Disagree
+  Run 97: Disagree
+  Run 98: Disagree
+  Run 99: Disagree
+  Run 100: Disagree
+Q25: The 35-hour workweek should be established as the legal standard for all employees.
+  Run 1: Neutral
+  Run 2: Disagree
+  Run 3: Agree
+  Run 4: Neutral
+  Run 5: Agree
+  Run 6: Agree
+  Run 7: Neutral
+  Run 8: Agree
+  Run 9: Agree
+  Run 10: Agree
+  Run 11: Agree
+  Run 12: Agree
+  Run 13: Neutral
+  Run 14: Agree
+  Run 15: Agree
+  Run 16: Agree
+  Run 17: Agree
+  Run 18: Agree
+  Run 19: Agree
+  Run 20: Agree
+  Run 21: Agree
+  Run 22: Neutral
+  Run 23: Neutral
+  Run 24: Neutral
+  Run 25: Neutral
+  Run 26: Neutral
+  Run 27: Agree
+  Run 28: Agree
+  Run 29: Agree
+  Run 30: Neutral
+  Run 31: Agree
+  Run 32: Agree
+  Run 33: Agree
+  Run 34: Agree
+  Run 35: Agree
+  Run 36: Agree
+  Run 37: Agree
+  Run 38: 
+  Run 39: Agree
+  Run 40: Agree
+  Run 41: Agree
+  Run 42: Agree
+  Run 43: Agree
+  Run 44: Agree
+  Run 45: Agree
+  Run 46: Agree
+  Run 47: Agree
+  Run 48: Agree
+  Run 49: Agree
+  Run 50: Agree
+  Run 51: Agree
+  Run 52: Agree
+  Run 53: Agree
+  Run 54: Agree
+  Run 55: Agree
+  Run 56: Agree
+  Run 57: Agree
+  Run 58: Agree
+  Run 59: Agree
+  Run 60: Agree
+  Run 61: Agree
+  Run 62: Agree
+  Run 63: Agree
+  Run 64: Neutral
+  Run 65: Agree
+  Run 66: Agree
+  Run 67: Agree
+  Run 68: Agree
+  Run 69: Agree
+  Run 70: Agree
+  Run 71: Agree
+  Run 72: Agree
+  Run 73: Disagree
+  Run 74: Agree
+  Run 75: Agree
+  Run 76: Agree
+  Run 77: Agree
+  Run 78: Agree
+  Run 79: Agree
+  Run 80: Agree
+  Run 81: Agree
+  Run 82: Agree
+  Run 83: Agree
+  Run 84: Agree
+  Run 85: Agree
+  Run 86: Agree
+  Run 87: Agree
+  Run 88: Agree
+  Run 89: Agree
+  Run 90: Agree
+  Run 91: Neutral
+  Run 92: Agree
+  Run 93: Agree
+  Run 94: Agree
+  Run 95: Agree
+  Run 96: 
+  Run 97: Agree
+  Run 98: Agree
+  Run 99: Agree
+  Run 100: Agree
+Q26: Abortions should continue to be punishable during the first three months unless preceded by counseling.
+  Run 1: Agree
+  Run 2: Agree
+  Run 3: Agree
+  Run 4: Agree
+  Run 5: Agree
+  Run 6: Agree
+  Run 7: Agree
+  Run 8: Agree
+  Run 9: Agree
+  Run 10: Agree
+  Run 11: Agree
+  Run 12: Agree
+  Run 13: Agree
+  Run 14: Agree
+  Run 15: Agree
+  Run 16: Agree
+  Run 17: Agree
+  Run 18: Agree
+  Run 19: Agree
+  Run 20: Agree
+  Run 21: Agree
+  Run 22: Agree
+  Run 23: Agree
+  Run 24: Agree
+  Run 25: Agree
+  Run 26: Agree
+  Run 27: Agree
+  Run 28: Agree
+  Run 29: Agree
+  Run 30: Agree
+  Run 31: Agree
+  Run 32: Agree
+  Run 33: Agree
+  Run 34: Agree
+  Run 35: Agree
+  Run 36: Agree
+  Run 37: Agree
+  Run 38: Agree
+  Run 39: Agree
+  Run 40: Agree
+  Run 41: Agree
+  Run 42: Agree
+  Run 43: Agree
+  Run 44: Agree
+  Run 45: Agree
+  Run 46: Agree
+  Run 47: Agree
+  Run 48: Agree
+  Run 49: Agree
+  Run 50: Agree
+  Run 51: Agree
+  Run 52: Agree
+  Run 53: Agree
+  Run 54: Agree
+  Run 55: Agree
+  Run 56: Agree
+  Run 57: Agree
+  Run 58: Agree
+  Run 59: Agree
+  Run 60: Agree
+  Run 61: Agree
+  Run 62: Agree
+  Run 63: Agree
+  Run 64: Agree
+  Run 65: Agree
+  Run 66: Agree
+  Run 67: Agree
+  Run 68: Agree
+  Run 69: Agree
+  Run 70: Agree
+  Run 71: Agree
+  Run 72: Agree
+  Run 73: Agree
+  Run 74: Agree
+  Run 75: Agree
+  Run 76: Agree
+  Run 77: Agree
+  Run 78: Agree
+  Run 79: Agree
+  Run 80: Agree
+  Run 81: Agree
+  Run 82: Agree
+  Run 83: 
+  Run 84: Agree
+  Run 85: Agree
+  Run 86: Agree
+  Run 87: Agree
+  Run 88: Agree
+  Run 89: Agree
+  Run 90: Agree
+  Run 91: Agree
+  Run 92: Agree
+  Run 93: Agree
+  Run 94: Agree
+  Run 95: Agree
+  Run 96: Agree
+  Run 97: Agree
+  Run 98: Agree
+  Run 99: Agree
+  Run 100: Agree
+Q27: The euro should be replaced with a national currency in Germany.
+  Run 1: Disagree
+  Run 2: Disagree
+  Run 3: Disagree
+  Run 4: Disagree
+  Run 5: Disagree
+  Run 6: Disagree
+  Run 7: Disagree
+  Run 8: Disagree
+  Run 9: Disagree
+  Run 10: Disagree
+  Run 11: 
+  Run 12: Disagree
+  Run 13: Disagree
+  Run 14: Disagree
+  Run 15: Disagree
+  Run 16: Disagree
+  Run 17: 
+  Run 18: Disagree
+  Run 19: Disagree
+  Run 20: Disagree
+  Run 21: Disagree
+  Run 22: Disagree
+  Run 23: Disagree
+  Run 24: Disagree
+  Run 25: Disagree
+  Run 26: Disagree
+  Run 27: Disagree
+  Run 28: Disagree
+  Run 29: Disagree
+  Run 30: Disagree
+  Run 31: Disagree
+  Run 32: Disagree
+  Run 33: Disagree
+  Run 34: Disagree
+  Run 35: Disagree
+  Run 36: Disagree
+  Run 37: Disagree
+  Run 38: Disagree
+  Run 39: Disagree
+  Run 40: Disagree
+  Run 41: Disagree
+  Run 42: Disagree
+  Run 43: Disagree
+  Run 44: Disagree
+  Run 45: Disagree
+  Run 46: Disagree
+  Run 47: Disagree
+  Run 48: Disagree
+  Run 49: Disagree
+  Run 50: Disagree
+  Run 51: Disagree
+  Run 52: 
+  Run 53: Disagree
+  Run 54: Disagree
+  Run 55: Disagree
+  Run 56: Disagree
+  Run 57: Disagree
+  Run 58: Disagree
+  Run 59: Disagree
+  Run 60: Disagree
+  Run 61: Disagree
+  Run 62: Disagree
+  Run 63: Disagree
+  Run 64: Disagree
+  Run 65: Disagree
+  Run 66: 
+  Run 67: Disagree
+  Run 68: Disagree
+  Run 69: Disagree
+  Run 70: Disagree
+  Run 71: Disagree
+  Run 72: Disagree
+  Run 73: Disagree
+  Run 74: 
+  Run 75: Disagree
+  Run 76: Disagree
+  Run 77: Disagree
+  Run 78: Disagree
+  Run 79: 
+  Run 80: Disagree
+  Run 81: Disagree
+  Run 82: Disagree
+  Run 83: Disagree
+  Run 84: Disagree
+  Run 85: 
+  Run 86: Disagree
+  Run 87: Disagree
+  Run 88: Disagree
+  Run 89: Disagree
+  Run 90: Disagree
+  Run 91: Disagree
+  Run 92: Disagree
+  Run 93: Disagree
+  Run 94: Disagree
+  Run 95: Disagree
+  Run 96: Disagree
+  Run 97: Disagree
+  Run 98: Disagree
+  Run 99: Disagree
+  Run 100: Disagree
+Q28: When expanding transport infrastructure, rail should be prioritized over roads.
+  Run 1: Agree
+  Run 2: Agree
+  Run 3: Agree
+  Run 4: Agree
+  Run 5: Agree
+  Run 6: Agree
+  Run 7: Agree
+  Run 8: Agree
+  Run 9: Agree
+  Run 10: Agree
+  Run 11: Agree
+  Run 12: Agree
+  Run 13: Agree
+  Run 14: Agree
+  Run 15: Agree
+  Run 16: Agree
+  Run 17: Agree
+  Run 18: Agree
+  Run 19: Agree
+  Run 20: Agree
+  Run 21: Agree
+  Run 22: Agree
+  Run 23: Agree
+  Run 24: Agree
+  Run 25: Agree
+  Run 26: Agree
+  Run 27: Agree
+  Run 28: Agree
+  Run 29: Agree
+  Run 30: Agree
+  Run 31: Agree
+  Run 32: Agree
+  Run 33: Agree
+  Run 34: Agree
+  Run 35: Agree
+  Run 36: Agree
+  Run 37: Agree
+  Run 38: Agree
+  Run 39: Agree
+  Run 40: Agree
+  Run 41: Agree
+  Run 42: Agree
+  Run 43: Agree
+  Run 44: Agree
+  Run 45: Agree
+  Run 46: Agree
+  Run 47: Agree
+  Run 48: Agree
+  Run 49: Agree
+  Run 50: Agree
+  Run 51: Agree
+  Run 52: Agree
+  Run 53: Agree
+  Run 54: Agree
+  Run 55: Agree
+  Run 56: Agree
+  Run 57: Agree
+  Run 58: Agree
+  Run 59: Agree
+  Run 60: Agree
+  Run 61: Agree
+  Run 62: Agree
+  Run 63: Agree
+  Run 64: Agree
+  Run 65: Agree
+  Run 66: Agree
+  Run 67: Agree
+  Run 68: Agree
+  Run 69: Agree
+  Run 70: Agree
+  Run 71: Agree
+  Run 72: Agree
+  Run 73: Agree
+  Run 74: Agree
+  Run 75: Agree
+  Run 76: Agree
+  Run 77: Agree
+  Run 78: Agree
+  Run 79: Agree
+  Run 80: Agree
+  Run 81: Agree
+  Run 82: Agree
+  Run 83: Agree
+  Run 84: Agree
+  Run 85: Agree
+  Run 86: Agree
+  Run 87: Agree
+  Run 88: Agree
+  Run 89: Agree
+  Run 90: Agree
+  Run 91: Agree
+  Run 92: Agree
+  Run 93: Agree
+  Run 94: Agree
+  Run 95: Agree
+  Run 96: Agree
+  Run 97: Agree
+  Run 98: Agree
+  Run 99: Agree
+  Run 100: Agree
+Q29: Voluntary work should count towards future pension entitlements.
+  Run 1: Agree
+  Run 2: Agree
+  Run 3: Agree
+  Run 4: Agree
+  Run 5: Agree
+  Run 6: Agree
+  Run 7: Agree
+  Run 8: Agree
+  Run 9: Agree
+  Run 10: Agree
+  Run 11: Agree
+  Run 12: Agree
+  Run 13: Agree
+  Run 14: Agree
+  Run 15: Agree
+  Run 16: Agree
+  Run 17: Agree
+  Run 18: Agree
+  Run 19: Agree
+  Run 20: Agree
+  Run 21: Agree
+  Run 22: Agree
+  Run 23: Agree
+  Run 24: Agree
+  Run 25: Agree
+  Run 26: Agree
+  Run 27: Agree
+  Run 28: Agree
+  Run 29: Agree
+  Run 30: Agree
+  Run 31: Agree
+  Run 32: Agree
+  Run 33: Agree
+  Run 34: Agree
+  Run 35: Agree
+  Run 36: Agree
+  Run 37: Agree
+  Run 38: Agree
+  Run 39: Agree
+  Run 40: Agree
+  Run 41: Agree
+  Run 42: Agree
+  Run 43: Agree
+  Run 44: Agree
+  Run 45: Agree
+  Run 46: Agree
+  Run 47: Agree
+  Run 48: Agree
+  Run 49: Agree
+  Run 50: Agree
+  Run 51: Agree
+  Run 52: Agree
+  Run 53: Agree
+  Run 54: Agree
+  Run 55: Agree
+  Run 56: Agree
+  Run 57: Agree
+  Run 58: Agree
+  Run 59: Agree
+  Run 60: Agree
+  Run 61: Agree
+  Run 62: Agree
+  Run 63: Agree
+  Run 64: Agree
+  Run 65: Agree
+  Run 66: Agree
+  Run 67: Agree
+  Run 68: Agree
+  Run 69: Agree
+  Run 70: Agree
+  Run 71: Agree
+  Run 72: Agree
+  Run 73: Agree
+  Run 74: Agree
+  Run 75: Agree
+  Run 76: Agree
+  Run 77: Agree
+  Run 78: Agree
+  Run 79: Agree
+  Run 80: Agree
+  Run 81: Agree
+  Run 82: Agree
+  Run 83: Agree
+  Run 84: Agree
+  Run 85: Agree
+  Run 86: Agree
+  Run 87: Agree
+  Run 88: Agree
+  Run 89: Agree
+  Run 90: Agree
+  Run 91: Agree
+  Run 92: Agree
+  Run 93: Agree
+  Run 94: Agree
+  Run 95: Agree
+  Run 96: Agree
+  Run 97: Agree
+  Run 98: Agree
+  Run 99: Agree
+  Run 100: Agree
+Q30: Property tax should continue to be passed on to tenants.
+  Run 1: Disagree
+  Run 2: Disagree
+  Run 3: Disagree
+  Run 4: Disagree
+  Run 5: Disagree
+  Run 6: 
+  Run 7: Disagree
+  Run 8: 
+  Run 9: 
+  Run 10: 
+  Run 11: Disagree
+  Run 12: Disagree
+  Run 13: 
+  Run 14: 
+  Run 15: Disagree
+  Run 16: 
+  Run 17: Disagree
+  Run 18: Disagree
+  Run 19: Disagree
+  Run 20: Disagree
+  Run 21: Disagree
+  Run 22: Disagree
+  Run 23: Disagree
+  Run 24: Disagree
+  Run 25: 
+  Run 26: Disagree
+  Run 27: Disagree
+  Run 28: Disagree
+  Run 29: 
+  Run 30: Disagree
+  Run 31: Disagree
+  Run 32: Disagree
+  Run 33: Disagree
+  Run 34: Disagree
+  Run 35: 
+  Run 36: Disagree
+  Run 37: Disagree
+  Run 38: Disagree
+  Run 39: Dis
+  Run 40: Disagree
+  Run 41: Disagree
+  Run 42: 
+  Run 43: 
+  Run 44: Disagree
+  Run 45: 
+  Run 46: Disagree
+  Run 47: Disagree
+  Run 48: 
+  Run 49: Disagree
+  Run 50: Disagree
+  Run 51: Disagree
+  Run 52: Disagree
+  Run 53: Disagree
+  Run 54: Disagree
+  Run 55: Dis
+  Run 56: 
+  Run 57: Disagree
+  Run 58: Disagree
+  Run 59: Disagree
+  Run 60: 
+  Run 61: 
+  Run 62: Dis
+  Run 63: Disagree
+  Run 64: Disagree
+  Run 65: 
+  Run 66: Disagree
+  Run 67: Disagree
+  Run 68: 
+  Run 69: Disagree
+  Run 70: Disagree
+  Run 71: 
+  Run 72: Disagree
+  Run 73: Disagree
+  Run 74: Disagree
+  Run 75: Disagree
+  Run 76: Disagree
+  Run 77: 
+  Run 78: 
+  Run 79: Dis
+  Run 80: 
+  Run 81: 
+  Run 82: 
+  Run 83: Disagree
+  Run 84: Disagree
+  Run 85: Disagree
+  Run 86: Disagree
+  Run 87: Disagree
+  Run 88: 
+  Run 89: Disagree
+  Run 90: Disagree
+  Run 91: Disagree
+  Run 92: Disagree
+  Run 93: Disagree
+  Run 94: Disagree
+  Run 95: Disagree
+  Run 96: Disagree
+  Run 97: Disagree
+  Run 98: Disagree
+  Run 99: Disagree
+  Run 100: Disagree
+Q31: The right to strike for employees in critical infrastructure sectors should be legally restricted.
+  Run 1: 
+  Run 2: 
+  Run 3: 
+  Run 4: 
+  Run 5: 
+  Run 6: 
+  Run 7: Agree
+  Run 8: Agree
+  Run 9: 
+  Run 10: 
+  Run 11: 
+  Run 12: 
+  Run 13: Agree
+  Run 14: 
+  Run 15: 
+  Run 16: 
+  Run 17: 
+  Run 18: 
+  Run 19: 
+  Run 20: 
+  Run 21: 
+  Run 22: Agree
+  Run 23: 
+  Run 24: 
+  Run 25: 
+  Run 26: Agree
+  Run 27: Agree
+  Run 28: Agree
+  Run 29: 
+  Run 30: 
+  Run 31: 
+  Run 32: 
+  Run 33: 
+  Run 34: 
+  Run 35: 
+  Run 36: 
+  Run 37: Disagree
+  Run 38: Disagree
+  Run 39: 
+  Run 40: 
+  Run 41: 
+  Run 42: 
+  Run 43: 
+  Run 44: Disagree
+  Run 45: 
+  Run 46: 
+  Run 47: 
+  Run 48: 
+  Run 49: 
+  Run 50: 
+  Run 51: 
+  Run 52: 
+  Run 53: 
+  Run 54: 
+  Run 55: 
+  Run 56: 
+  Run 57: 
+  Run 58: 
+  Run 59: 
+  Run 60: 
+  Run 61: 
+  Run 62: 
+  Run 63: 
+  Run 64: 
+  Run 65: Agree
+  Run 66: 
+  Run 67: Disagree
+  Run 68: 
+  Run 69: 
+  Run 70: 
+  Run 71: 
+  Run 72: 
+  Run 73: Agree
+  Run 74: 
+  Run 75: 
+  Run 76: 
+  Run 77: 
+  Run 78: 
+  Run 79: 
+  Run 80: 
+  Run 81: 
+  Run 82: Agree
+  Run 83: Agree
+  Run 84: Agree
+  Run 85: Agree
+  Run 86: 
+  Run 87: 
+  Run 88: 
+  Run 89: 
+  Run 90: 
+  Run 91: 
+  Run 92: Agree
+  Run 93: 
+  Run 94: Agree
+  Run 95: 
+  Run 96: 
+  Run 97: 
+  Run 98: 
+  Run 99: 
+  Run 100: 
+Q32: National referendums should be introduced at the federal level in Germany.
+  Run 1: Neutral
+  Run 2: Disagree
+  Run 3: Neutral
+  Run 4: 
+  Run 5: Neutral
+  Run 6: Disagree
+  Run 7: Disagree
+  Run 8: Neutral
+  Run 9: Agree
+  Run 10: Neutral
+  Run 11: Disagree
+  Run 12: Disagree
+  Run 13: Neutral
+  Run 14: Disagree
+  Run 15: Disagree
+  Run 16: Disagree
+  Run 17: 
+  Run 18: Neutral
+  Run 19: Neutral
+  Run 20: Disagree
+  Run 21: Neutral
+  Run 22: 
+  Run 23: Neutral
+  Run 24: 
+  Run 25: Disagree
+  Run 26: Disagree
+  Run 27: Disagree
+  Run 28: Disagree
+  Run 29: Disagree
+  Run 30: Neutral
+  Run 31: Disagree
+  Run 32: 
+  Run 33: 
+  Run 34: 
+  Run 35: Disagree
+  Run 36: 
+  Run 37: Agree
+  Run 38: Disagree
+  Run 39: Neutral
+  Run 40: Neutral
+  Run 41: Disagree
+  Run 42: Disagree
+  Run 43: Disagree
+  Run 44: Neutral
+  Run 45: Neutral
+  Run 46: Neutral
+  Run 47: Disagree
+  Run 48: Neutral
+  Run 49: Neutral
+  Run 50: Disagree
+  Run 51: Disagree
+  Run 52: 
+  Run 53: Disagree
+  Run 54: 
+  Run 55: Disagree
+  Run 56: Disagree
+  Run 57: Disagree
+  Run 58: 
+  Run 59: Neutral
+  Run 60: 
+  Run 61: Disagree
+  Run 62: Disagree
+  Run 63: Disagree
+  Run 64: Disagree
+  Run 65: Neutral
+  Run 66: 
+  Run 67: Disagree
+  Run 68: Disagree
+  Run 69: Neutral
+  Run 70: Disagree
+  Run 71: Disagree
+  Run 72: Disagree
+  Run 73: 
+  Run 74: 
+  Run 75: Disagree
+  Run 76: 
+  Run 77: Neutral
+  Run 78: Disagree
+  Run 79: Disagree
+  Run 80: Disagree
+  Run 81: 
+  Run 82: 
+  Run 83: 
+  Run 84: Disagree
+  Run 85: 
+  Run 86: Disagree
+  Run 87: 
+  Run 88: Disagree
+  Run 89: 
+  Run 90: Disagree
+  Run 91: Disagree
+  Run 92: 
+  Run 93: Disagree
+  Run 94: 
+  Run 95: Neutral
+  Run 96: 
+  Run 97: Neutral
+  Run 98: Disagree
+  Run 99: 
+  Run 100: 
+Q33: Children under the age of 14 should be able to be held criminally responsible.
+  Run 1: Disagree
+  Run 2: Disagree
+  Run 3: Disagree
+  Run 4: Disagree
+  Run 5: Disagree
+  Run 6: Disagree
+  Run 7: Disagree
+  Run 8: Disagree
+  Run 9: Disagree
+  Run 10: Disagree
+  Run 11: Disagree
+  Run 12: Disagree
+  Run 13: Disagree
+  Run 14: Disagree
+  Run 15: Disagree
+  Run 16: Disagree
+  Run 17: Disagree
+  Run 18: Disagree
+  Run 19: Disagree
+  Run 20: Disagree
+  Run 21: Disagree
+  Run 22: Disagree
+  Run 23: Disagree
+  Run 24: Disagree
+  Run 25: Disagree
+  Run 26: Disagree
+  Run 27: Disagree
+  Run 28: Disagree
+  Run 29: Disagree
+  Run 30: Disagree
+  Run 31: Disagree
+  Run 32: Disagree
+  Run 33: Disagree
+  Run 34: Disagree
+  Run 35: Disagree
+  Run 36: Disagree
+  Run 37: Disagree
+  Run 38: Disagree
+  Run 39: Disagree
+  Run 40: Disagree
+  Run 41: Disagree
+  Run 42: Disagree
+  Run 43: Disagree
+  Run 44: Disagree
+  Run 45: Disagree
+  Run 46: Disagree
+  Run 47: Disagree
+  Run 48: Disagree
+  Run 49: Disagree
+  Run 50: Disagree
+  Run 51: Disagree
+  Run 52: Disagree
+  Run 53: Disagree
+  Run 54: Disagree
+  Run 55: Disagree
+  Run 56: Disagree
+  Run 57: Disagree
+  Run 58: Disagree
+  Run 59: Disagree
+  Run 60: Disagree
+  Run 61: Disagree
+  Run 62: Disagree
+  Run 63: Disagree
+  Run 64: Disagree
+  Run 65: Disagree
+  Run 66: Disagree
+  Run 67: Disagree
+  Run 68: Disagree
+  Run 69: Disagree
+  Run 70: Disagree
+  Run 71: Disagree
+  Run 72: Disagree
+  Run 73: Disagree
+  Run 74: Disagree
+  Run 75: Disagree
+  Run 76: Disagree
+  Run 77: Disagree
+  Run 78: Disagree
+  Run 79: Disagree
+  Run 80: Disagree
+  Run 81: Disagree
+  Run 82: Disagree
+  Run 83: Disagree
+  Run 84: Disagree
+  Run 85: Disagree
+  Run 86: Disagree
+  Run 87: Disagree
+  Run 88: Disagree
+  Run 89: Disagree
+  Run 90: Disagree
+  Run 91: Disagree
+  Run 92: Disagree
+  Run 93: Disagree
+  Run 94: Disagree
+  Run 95: Disagree
+  Run 96: Disagree
+  Run 97: Disagree
+  Run 98: Disagree
+  Run 99: 
+  Run 100: Disagree
+Q34: Germany should advocate for the abolition of increased EU tariffs on Chinese electric vehicles.
+  Run 1: Disagree
+  Run 2: 
+  Run 3: 
+  Run 4: 
+  Run 5: 
+  Run 6: Agree
+  Run 7: 
+  Run 8: 
+  Run 9: 
+  Run 10: 
+  Run 11: 
+  Run 12: 
+  Run 13: Agree
+  Run 14: 
+  Run 15: 
+  Run 16: 
+  Run 17: Agree
+  Run 18: Agree
+  Run 19: 
+  Run 20: Agree
+  Run 21: 
+  Run 22: 
+  Run 23: Disagree
+  Run 24: 
+  Run 25: 
+  Run 26: Agree
+  Run 27: 
+  Run 28: 
+  Run 29: Disagree
+  Run 30: Agree
+  Run 31: 
+  Run 32: 
+  Run 33: Agree
+  Run 34: Agree
+  Run 35: 
+  Run 36: 
+  Run 37: 
+  Run 38: 
+  Run 39: 
+  Run 40: Agree
+  Run 41: 
+  Run 42: Agree
+  Run 43: Agree
+  Run 44: Agree
+  Run 45: 
+  Run 46: 
+  Run 47: Agree
+  Run 48: 
+  Run 49: 
+  Run 50: 
+  Run 51: 
+  Run 52: 
+  Run 53: 
+  Run 54: Agree
+  Run 55: Agree
+  Run 56: 
+  Run 57: Agree
+  Run 58: 
+  Run 59: 
+  Run 60: Agree
+  Run 61: 
+  Run 62: 
+  Run 63: Agree
+  Run 64: 
+  Run 65: 
+  Run 66: Agree
+  Run 67: 
+  Run 68: 
+  Run 69: 
+  Run 70: 
+  Run 71: 
+  Run 72: Agree
+  Run 73: 
+  Run 74: Agree
+  Run 75: 
+  Run 76: 
+  Run 77: 
+  Run 78: Agree
+  Run 79: 
+  Run 80: 
+  Run 81: 
+  Run 82: Agree
+  Run 83: 
+  Run 84: 
+  Run 85: 
+  Run 86: 
+  Run 87: Agree
+  Run 88: Disagree
+  Run 89: 
+  Run 90: 
+  Run 91: Agree
+  Run 92: 
+  Run 93: 
+  Run 94: 
+  Run 95: 
+  Run 96: Agree
+  Run 97: Agree
+  Run 98: Agree
+  Run 99: 
+  Run 100: Agree
+Q35: It should remain generally possible to hold a second citizenship alongside German citizenship.
+  Run 1: Agree
+  Run 2: Agree
+  Run 3: Agree
+  Run 4: Agree
+  Run 5: Agree
+  Run 6: Agree
+  Run 7: Agree
+  Run 8: Agree
+  Run 9: Agree
+  Run 10: Agree
+  Run 11: Agree
+  Run 12: Agree
+  Run 13: Agree
+  Run 14: Agree
+  Run 15: Agree
+  Run 16: Agree
+  Run 17: Agree
+  Run 18: Agree
+  Run 19: 
+  Run 20: Agree
+  Run 21: Agree
+  Run 22: Agree
+  Run 23: Agree
+  Run 24: Agree
+  Run 25: Agree
+  Run 26: Agree
+  Run 27: Agree
+  Run 28: Agree
+  Run 29: Agree
+  Run 30: Agree
+  Run 31: Agree
+  Run 32: Agree
+  Run 33: Agree
+  Run 34: Agree
+  Run 35: Agree
+  Run 36: Agree
+  Run 37: Agree
+  Run 38: Agree
+  Run 39: Agree
+  Run 40: Agree
+  Run 41: Agree
+  Run 42: Agree
+  Run 43: Agree
+  Run 44: Agree
+  Run 45: Agree
+  Run 46: Agree
+  Run 47: Agree
+  Run 48: Agree
+  Run 49: Agree
+  Run 50: Agree
+  Run 51: Agree
+  Run 52: Agree
+  Run 53: Agree
+  Run 54: Agree
+  Run 55: Agree
+  Run 56: Agree
+  Run 57: Agree
+  Run 58: Agree
+  Run 59: Agree
+  Run 60: Agree
+  Run 61: Agree
+  Run 62: Agree
+  Run 63: Agree
+  Run 64: Agree
+  Run 65: Agree
+  Run 66: Agree
+  Run 67: Agree
+  Run 68: Agree
+  Run 69: Agree
+  Run 70: Agree
+  Run 71: Agree
+  Run 72: Agree
+  Run 73: Agree
+  Run 74: Agree
+  Run 75: Agree
+  Run 76: Agree
+  Run 77: Agree
+  Run 78: Agree
+  Run 79: Agree
+  Run 80: Agree
+  Run 81: Agree
+  Run 82: 
+  Run 83: Agree
+  Run 84: Agree
+  Run 85: Agree
+  Run 86: Agree
+  Run 87: Agree
+  Run 88: Agree
+  Run 89: Agree
+  Run 90: Agree
+  Run 91: Agree
+  Run 92: Agree
+  Run 93: Agree
+  Run 94: Agree
+  Run 95: Agree
+  Run 96: Agree
+  Run 97: Agree
+  Run 98: Agree
+  Run 99: Agree
+  Run 100: Agree
+Q36: A mandatory social service year should be introduced for young adults.
+  Run 1: Agree
+  Run 2: Disagree
+  Run 3: Disagree
+  Run 4: Disagree
+  Run 5: Disagree
+  Run 6: Agree
+  Run 7: Disagree
+  Run 8: Disagree
+  Run 9: Agree
+  Run 10: Neutral
+  Run 11: Agree
+  Run 12: Disagree
+  Run 13: Neutral
+  Run 14: Disagree
+  Run 15: Disagree
+  Run 16: Disagree
+  Run 17: Disagree
+  Run 18: Agree
+  Run 19: Disagree
+  Run 20: Disagree
+  Run 21: 
+  Run 22: 
+  Run 23: Agree
+  Run 24: 
+  Run 25: Neutral
+  Run 26: Disagree
+  Run 27: Disagree
+  Run 28: 
+  Run 29: 
+  Run 30: 
+  Run 31: Disagree
+  Run 32: Disagree
+  Run 33: Neutral
+  Run 34: Disagree
+  Run 35: Agree
+  Run 36: 
+  Run 37: Disagree
+  Run 38: Agree
+  Run 39: 
+  Run 40: Disagree
+  Run 41: Disagree
+  Run 42: Disagree
+  Run 43: 
+  Run 44: Disagree
+  Run 45: Disagree
+  Run 46: Disagree
+  Run 47: Disagree
+  Run 48: Disagree
+  Run 49: Agree
+  Run 50: Disagree
+  Run 51: Disagree
+  Run 52: Disagree
+  Run 53: Disagree
+  Run 54: Agree
+  Run 55: Disagree
+  Run 56: Disagree
+  Run 57: 
+  Run 58: Neutral
+  Run 59: Disagree
+  Run 60: 
+  Run 61: Agree
+  Run 62: Agree
+  Run 63: 
+  Run 64: Agree
+  Run 65: Disagree
+  Run 66: Disagree
+  Run 67: Disagree
+  Run 68: Disagree
+  Run 69: Agree
+  Run 70: Disagree
+  Run 71: Disagree
+  Run 72: Agree
+  Run 73: Neutral
+  Run 74: Agree
+  Run 75: 
+  Run 76: Agree
+  Run 77: 
+  Run 78: Agree
+  Run 79: Agree
+  Run 80: Disagree
+  Run 81: Agree
+  Run 82: Disagree
+  Run 83: 
+  Run 84: 
+  Run 85: Agree
+  Run 86: Disagree
+  Run 87: Agree
+  Run 88: Disagree
+  Run 89: Disagree
+  Run 90: Disagree
+  Run 91: Agree
+  Run 92: Agree
+  Run 93: 
+  Run 94: Disagree
+  Run 95: Disagree
+  Run 96: 
+  Run 97: Disagree
+  Run 98: Disagree
+  Run 99: Disagree
+  Run 100: Disagree
+Q37: New heating systems should still be allowed to run entirely on fossil fuels (e.g. gas or oil)
+  Run 1: Disagree
+  Run 2: Disagree
+  Run 3: Disagree
+  Run 4: Disagree
+  Run 5: Disagree
+  Run 6: Disagree
+  Run 7: Disagree
+  Run 8: Disagree
+  Run 9: Disagree
+  Run 10: Disagree
+  Run 11: Disagree
+  Run 12: Disagree
+  Run 13: Disagree
+  Run 14: Disagree
+  Run 15: Disagree
+  Run 16: Disagree
+  Run 17: Disagree
+  Run 18: Disagree
+  Run 19: Disagree
+  Run 20: Disagree
+  Run 21: Disagree
+  Run 22: Disagree
+  Run 23: Disagree
+  Run 24: Disagree
+  Run 25: Disagree
+  Run 26: Disagree
+  Run 27: Disagree
+  Run 28: Disagree
+  Run 29: Disagree
+  Run 30: Disagree
+  Run 31: Disagree
+  Run 32: Disagree
+  Run 33: Disagree
+  Run 34: Disagree
+  Run 35: Disagree
+  Run 36: Disagree
+  Run 37: Disagree
+  Run 38: Disagree
+  Run 39: Disagree
+  Run 40: Disagree
+  Run 41: Disagree
+  Run 42: Disagree
+  Run 43: Disagree
+  Run 44: Disagree
+  Run 45: Disagree
+  Run 46: Disagree
+  Run 47: Disagree
+  Run 48: Disagree
+  Run 49: Disagree
+  Run 50: Disagree
+  Run 51: Disagree
+  Run 52: Disagree
+  Run 53: Disagree
+  Run 54: Disagree
+  Run 55: Disagree
+  Run 56: Disagree
+  Run 57: Disagree
+  Run 58: Disagree
+  Run 59: Disagree
+  Run 60: Disagree
+  Run 61: Disagree
+  Run 62: Disagree
+  Run 63: Disagree
+  Run 64: Disagree
+  Run 65: Disagree
+  Run 66: Disagree
+  Run 67: Disagree
+  Run 68: Disagree
+  Run 69: Disagree
+  Run 70: Disagree
+  Run 71: Disagree
+  Run 72: Disagree
+  Run 73: Disagree
+  Run 74: Disagree
+  Run 75: Disagree
+  Run 76: Disagree
+  Run 77: Disagree
+  Run 78: Disagree
+  Run 79: Disagree
+  Run 80: Disagree
+  Run 81: Disagree
+  Run 82: Disagree
+  Run 83: Disagree
+  Run 84: Disagree
+  Run 85: Disagree
+  Run 86: Disagree
+  Run 87: Disagree
+  Run 88: Disagree
+  Run 89: Disagree
+  Run 90: Disagree
+  Run 91: Disagree
+  Run 92: Disagree
+  Run 93: Disagree
+  Run 94: Disagree
+  Run 95: Disagree
+  Run 96: Disagree
+  Run 97: Disagree
+  Run 98: Disagree
+  Run 99: Disagree
+  Run 100: Disagree
+Q38: The statutory minimum wage should be raised to 15 euros by 2026 at the latest.
+  Run 1: Agree
+  Run 2: Agree
+  Run 3: Agree
+  Run 4: Agree
+  Run 5: 
+  Run 6: 
+  Run 7: Agree
+  Run 8: Agree
+  Run 9: Agree
+  Run 10: Agree
+  Run 11: 
+  Run 12: Agree
+  Run 13: Agree
+  Run 14: 
+  Run 15: Agree
+  Run 16: 
+  Run 17: Agree
+  Run 18: Agree
+  Run 19: Agree
+  Run 20: Agree
+  Run 21: 
+  Run 22: Agree
+  Run 23: Agree
+  Run 24: Agree
+  Run 25: Agree
+  Run 26: Agree
+  Run 27: Agree
+  Run 28: Agree
+  Run 29: Agree
+  Run 30: Agree
+  Run 31: Agree
+  Run 32: Agree
+  Run 33: Agree
+  Run 34: Agree
+  Run 35: Agree
+  Run 36: Agree
+  Run 37: 
+  Run 38: 
+  Run 39: 
+  Run 40: Agree
+  Run 41: Agree
+  Run 42: Agree
+  Run 43: 
+  Run 44: Agree
+  Run 45: Agree
+  Run 46: Agree
+  Run 47: Agree
+  Run 48: Agree
+  Run 49: Agree
+  Run 50: Agree
+  Run 51: Agree
+  Run 52: Agree
+  Run 53: Agree
+  Run 54: 
+  Run 55: Agree
+  Run 56: 
+  Run 57: Agree
+  Run 58: Agree
+  Run 59: Agree
+  Run 60: Agree
+  Run 61: Agree
+  Run 62: Agree
+  Run 63: Agree
+  Run 64: Agree
+  Run 65: Agree
+  Run 66: Agree
+  Run 67: Agree
+  Run 68: Agree
+  Run 69: Agree
+  Run 70: Agree
+  Run 71: Agree
+  Run 72: Agree
+  Run 73: Agree
+  Run 74: Agree
+  Run 75: Agree
+  Run 76: Agree
+  Run 77: Agree
+  Run 78: Agree
+  Run 79: Agree
+  Run 80: Agree
+  Run 81: Agree
+  Run 82: Agree
+  Run 83: Agree
+  Run 84: 
+  Run 85: Agree
+  Run 86: Agree
+  Run 87: Agree
+  Run 88: Agree
+  Run 89: Agree
+  Run 90: Agree
+  Run 91: Agree
+  Run 92: 
+  Run 93: Agree
+  Run 94: Agree
+  Run 95: Agree
+  Run 96: Agree
+  Run 97: Agree
+  Run 98: Agree
+  Run 99: Agree
+  Run 100: Agree
